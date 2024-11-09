@@ -1,0 +1,3396 @@
+Shared memory exists. Just use it
+Start Alpaca account of Wang...
+10:42:04 Alpaca Account
+10:42:04 buySell = 1, 1
+10:42:04 ALL: m_canBuy = true, m_canSell = true
+10:42:04 RCL:
+10:42:04 bottomPrice = 85, 85
+10:42:04 topPrice = 90, 90
+10:42:04 multiplier = 10000, 10000
+10:42:04 offset = -100000, -100000
+10:42:04 hedgeRatio  = 0
+10:42:04 buySell = 1, 1
+10:42:04 canBuy = true, canSell = true
+10:42:04 takenProfit = 2
+10:42:04 canShort = 1
+10:42:04 time=9:30, 13:30
+10:42:04 TZA:
+10:42:04 bottomPrice = 18, 18
+10:42:04 topPrice = 54, 54
+10:42:04 multiplier = 31, 31
+10:42:04 offset = -2100, -2100
+10:42:04 hedgeRatio  = -1
+10:42:04 buySell = 1, 1
+10:42:04 canBuy = true, canSell = true
+10:42:04 canShort = 1
+10:42:04 shared = 0
+10:42:04 time=9:30, 13:30
+10:42:04 SQQQ:
+10:42:04 bottomPrice = 6.5, 6.5
+10:42:04 topPrice = 19.5, 19.5
+10:42:04 multiplier = 100, 100
+10:42:04 offset = -6500, -6500
+10:42:04 hedgeRatio  = -1
+10:42:04 buySell = 1, 1
+10:42:04 canBuy = true, canSell = true
+10:42:04 canShort = 1
+10:42:04 shared = 0
+10:42:04 time=9:30, 13:30
+10:42:04 SPXS:
+10:42:04 bottomPrice = 15, 15
+10:42:04 topPrice = 45, 45
+10:42:04 multiplier = 30, 30
+10:42:04 offset = -1900, -1900
+10:42:04 hedgeRatio  = -1
+10:42:04 buySell = 1, 1
+10:42:04 canBuy = true, canSell = true
+10:42:04 canShort = 1
+10:42:04 shared = 0
+10:42:04 time=9:30, 13:30
+10:42:04 SOXL:
+10:42:04 bottomPrice = 30, 30
+10:42:04 topPrice = 45, 45
+10:42:04 multiplier = 40, 40
+10:42:04 offset = -400, -400
+10:42:04 hedgeRatio  = 1
+10:42:04 buySell = 1, 1
+10:42:04 canBuy = true, canSell = true
+10:42:04 shared = 0
+10:42:04 time=9:0, 9:30
+10:42:05 YINN:
+10:42:05 bottomPrice = 14, 14
+10:42:05 topPrice = 25, 25
+10:42:05 multiplier = 30, 30
+10:42:05 offset = -1500, -1500
+10:42:05 hedgeRatio  = 1
+10:42:05 buySell = 0, 0
+10:42:05 canBuy = false, canSell = false
+10:42:05 time=9:30, 13:30
+10:42:05 CWEB:
+10:42:05 bottomPrice = 40, 40
+10:42:05 topPrice = 90, 90
+10:42:05 multiplier = 6, 6
+10:42:05 offset = -300, -300
+10:42:05 hedgeRatio  = 1
+10:42:05 buySell = 1, 1
+10:42:05 canBuy = true, canSell = true
+10:42:05 time=9:30, 13:30
+10:42:05 TMV:
+10:42:05 bottomPrice = 60, 60
+10:42:05 topPrice = 90, 90
+10:42:05 multiplier = 10, 10
+10:42:05 hedgeRatio  = 1
+10:42:05 offset = -400, -400
+10:42:05 buySell = 1, 1
+10:42:05 canBuy = true, canSell = true
+10:42:05 shared = 0
+10:42:05 time=9:48, 13:30
+10:42:05 LABU:
+10:42:05 bottomPrice = 45, 45
+10:42:05 topPrice = 110, 110
+10:42:05 multiplier = 7, 7
+10:42:05 hedgeRatio  = 1
+10:42:05 offset = 0, 0
+10:42:05 buySell = 1, 1
+10:42:05 canBuy = true, canSell = true
+10:42:05 shared = 0
+10:42:05 time=12:55, 16:0
+10:42:05 CCL:
+10:42:05 bottomPrice = 24, 24
+10:42:05 topPrice = 48, 48
+10:42:05 multiplier = 25, 25
+10:42:05 offset = -2000, -2000
+10:42:05 hedgeRatio  = 0
+10:42:05 buySell = 1, 1
+10:42:05 canBuy = true, canSell = true
+10:42:05 canShort = 1
+10:42:05 shared = 0
+10:42:05 time=9:30, 13:30
+10:42:05 NCLH:
+10:42:05 bottomPrice = 25, 25
+10:42:05 topPrice = 50, 50
+10:42:05 multiplier = 25, 25
+10:42:05 offset = -2000, -2000
+10:42:05 hedgeRatio  = 0
+10:42:05 buySell = 1, 1
+10:42:05 canBuy = true, canSell = true
+10:42:05 canShort = 1
+10:42:05 shared = 0
+10:42:05 time=9:30, 13:30
+10:42:05 DASH:
+10:42:05 bottomPrice = 120, 120
+10:42:05 topPrice = 200, 200
+10:42:05 multiplier = 4, 4
+10:42:05 offset = 0, 0
+10:42:05 hedgeRatio  = 0.8
+10:42:05 buySell = 1, 1
+10:42:05 canBuy = true, canSell = true
+10:42:05 shared = 0
+10:42:05 time=11:0, 13:30
+10:42:05 NIO:
+10:42:05 bottomPrice = 25, 25
+10:42:05 topPrice = 55, 55
+10:42:05 multiplier = 8, 8
+10:42:05 offset = -500, -500
+10:42:05 hedgeRatio  = 1
+10:42:05 buySell = 1, 1
+10:42:05 canBuy = true, canSell = true
+10:42:05 canShort = 1
+10:42:05 time=9:30, 13:30
+10:42:05 ARKK:
+10:42:05 bottomPrice = 80, 80
+10:42:05 topPrice = 160, 160
+10:42:05 multiplier = 6, 6
+10:42:05 offset = -500, -500
+10:42:05 hedgeRatio  = 1
+10:42:05 buySell = 1, 1
+10:42:05 canBuy = true, canSell = true
+10:42:05 canShort = 1
+10:42:05 time=9:30, 13:30
+10:42:05 AAL:
+10:42:05 bottomPrice = 16, 16
+10:42:05 topPrice = 30, 30
+10:42:05 multiplier = 10, 10
+10:42:05 offset = -700, -700
+10:42:05 hedgeRatio  = 0
+10:42:05 buySell = 1, 1
+10:42:05 canBuy = true, canSell = true
+10:42:05 canShort = 1
+10:42:05 time=9:30, 13:30
+10:42:05 WYNN:
+10:42:05 bottomPrice = 90, 90
+10:42:05 topPrice = 160, 160
+10:42:05 multiplier = 3, 3
+10:42:05 offset = -100, -100
+10:42:05 hedgeRatio  = 0
+10:42:05 buySell = 1, 1
+10:42:05 canBuy = true, canSell = true
+10:42:05 canShort = 1
+10:42:05 time=9:30, 13:30
+10:42:05 TSLA:
+10:42:05 bottomPrice = 450, 450
+10:42:05 topPrice = 900, 900
+10:42:05 multiplier = 0.4, 0.4
+10:42:05 offset = -40, -40
+10:42:05 hedgeRatio  = 0
+10:42:05 buySell = 1, 1
+10:42:05 canBuy = true, canSell = true
+10:42:05 canShort = 1
+10:42:05 time=12:10, 15:30
+10:42:05 BABA:
+10:42:05 bottomPrice = 210, 210
+10:42:05 topPrice = 330, 330
+10:42:05 multiplier = 6.3, 6.3
+10:42:05 hedgeRatio  = 0.3
+10:42:05 offset = -300, -300
+10:42:05 buySell = 1, 1
+10:42:05 canBuy = true, canSell = true
+10:42:05 shared = 0
+10:42:05 time=9:30, 13:30
+10:42:05 JD:
+10:42:05 bottomPrice = 65, 65
+10:42:05 topPrice = 110, 110
+10:42:05 multiplier = 30, 30
+10:42:05 offset = 0, 0
+10:42:05 hedgeRatio  = 0.7
+10:42:05 buySell = 1, 1
+10:42:05 canBuy = true, canSell = true
+10:42:05 shared = 0
+10:42:05 time=9:42, 10:0
+10:42:05 TSM:
+10:42:05 bottomPrice = 92, 92
+10:42:05 topPrice = 160, 160
+10:42:05 multiplier = 12, 12
+10:42:05 hedgeRatio  = 0.3
+10:42:05 offset = -600, -600
+10:42:05 buySell = 0, 0
+10:42:05 canBuy = false, canSell = false
+10:42:05 time=9:30, 13:30
+10:42:05 AMD:
+10:42:05 bottomPrice = 70, 70
+10:42:05 topPrice = 110, 110
+10:42:05 multiplier = 7.5, 7.5
+10:42:05 hedgeRatio  = 0.3
+10:42:05 buySell = 1, 1
+10:42:05 canBuy = true, canSell = true
+10:42:05 offset = -370, -370
+10:42:05 shared = 0
+10:42:05 time=9:30, 13:30
+10:42:05 PDD:
+10:42:05 bottomPrice = 100, 100
+10:42:05 topPrice = 220, 220
+10:42:05 multiplier = 4.5, 4.5
+10:42:05 hedgeRatio  = 1
+10:42:05 buySell = 1, 1
+10:42:05 canBuy = true, canSell = true
+10:42:05 offset = 0, 0
+10:42:05 shared = 0
+10:42:05 time=14:18, 14:40
+10:42:05 BILI:
+10:42:05 bottomPrice = 80, 80
+10:42:05 topPrice = 160, 160
+10:42:05 multiplier = 20, 20
+10:42:05 hedgeRatio  = 1
+10:42:05 buySell = 1, 1
+10:42:05 canBuy = true, canSell = true
+10:42:05 offset = 0, 0
+10:42:05 shared = 0
+10:42:05 time=13:45, 14:0
+10:42:05 BIDU:
+10:42:05 bottomPrice = 150, 150
+10:42:05 topPrice = 330, 330
+10:42:05 multiplier = 2, 2
+10:42:05 hedgeRatio  = 0.7
+10:42:05 buySell = 1, 1
+10:42:05 canBuy = true, canSell = true
+10:42:05 offset = -100, -100
+10:42:05 time=13:45, 14:30
+10:42:05 ABNB:
+10:42:05 bottomPrice = 140, 140
+10:42:05 topPrice = 220, 220
+10:42:05 multiplier = 3, 3
+10:42:05 hedgeRatio  = 0.5
+10:42:05 buySell = 1, 1
+10:42:05 canBuy = true, canSell = true
+10:42:05 offset = -150, -150
+10:42:05 buyAbove = 183
+10:42:05 time=9:30, 13:30
+10:42:05 U:
+10:42:05 bottomPrice = 75, 75
+10:42:05 topPrice = 150, 150
+10:42:05 multiplier = 4, 4
+10:42:05 hedgeRatio  = 1
+10:42:05 buySell = 0, 0
+10:42:05 canBuy = false, canSell = false
+10:42:05 offset = -300, -300
+10:42:05 time=9:30, 13:30
+10:42:05 TME:
+10:42:05 bottomPrice = 14, 14
+10:42:05 topPrice = 33, 33
+10:42:05 multiplier = 20, 20
+10:42:05 hedgeRatio  = 0.5
+10:42:05 offset = -1000, -1000
+10:42:05 buySell = 1, 1
+10:42:05 canBuy = true, canSell = true
+10:42:05 time=9:30, 13:30
+10:42:05 IQ:
+10:42:05 bottomPrice = 12, 12
+10:42:05 topPrice = 18, 18
+10:42:05 multiplier = 30, 30
+10:42:05 hedgeRatio  = 1
+10:42:05 offset = -1500, -1500
+10:42:05 buySell = 0, 0
+10:42:05 canBuy = false, canSell = false
+10:42:05 time=9:30, 13:30
+10:42:05 RAAS:
+10:42:05 bottomPrice = 8, 8
+10:42:05 topPrice = 30, 30
+10:42:05 multiplier = 45, 45
+10:42:05 hedgeRatio  = 1
+10:42:05 buySell = 0, 0
+10:42:05 canBuy = false, canSell = false
+10:42:05 offset = -4000, -4000
+10:42:05 canShort = 1
+10:42:05 time=9:30, 13:30
+10:42:05 FUTU:
+10:42:05 bottomPrice = 100, 100
+10:42:05 topPrice = 170, 170
+10:42:05 multiplier = 3, 3
+10:42:05 hedgeRatio  = 1
+10:42:05 buySell = 1, 1
+10:42:05 canBuy = true, canSell = true
+10:42:05 offset = 0, 0
+10:42:05 shared = 0
+10:42:05 time=11:8, 13:30
+10:42:05 NCTY:
+10:42:05 bottomPrice = 13, 13
+10:42:05 topPrice = 40, 40
+10:42:05 multiplier = 15, 15
+10:42:05 offset = -1000, -1000
+10:42:05 hedgeRatio  = 1
+10:42:05 buySell = 0, 0
+10:42:05 canBuy = false, canSell = false
+10:42:05 time=9:30, 13:30
+10:42:05 CAN:
+10:42:05 bottomPrice = 11, 11
+10:42:05 topPrice = 18.5, 18.5
+10:42:05 multiplier = 17, 17
+10:42:05 hedgeRatio  = 1
+10:42:05 buySell = 1, 1
+10:42:05 canBuy = true, canSell = true
+10:42:05 offset = -1700, -1700
+10:42:05 time=9:30, 13:30
+10:42:05 FB:
+10:42:05 bottomPrice = 260, 260
+10:42:05 topPrice = 400, 400
+10:42:05 multiplier = 3, 3
+10:42:05 hedgeRatio  = 0.33
+10:42:05 offset = -150, -150
+10:42:05 buySell = 0, 0
+10:42:05 canBuy = false, canSell = false
+10:42:05 time=9:30, 13:30
+10:42:05 AMZN:
+10:42:05 bottomPrice = 2900, 2900
+10:42:05 topPrice = 4500, 4500
+10:42:05 multiplier = 0.3, 0.3
+10:42:05 hedgeRatio  = 0.2
+10:42:05 offset = -15, -15
+10:42:05 buySell = 1, 1
+10:42:05 canBuy = true, canSell = true
+10:42:05 time=9:30, 13:30
+10:42:05 MSFT:
+10:42:05 bottomPrice = 220, 220
+10:42:05 topPrice = 300, 300
+10:42:05 multiplier = 3.7, 3.7
+10:42:05 hedgeRatio  = 0.3
+10:42:05 offset = -180, -180
+10:42:05 buySell = 0, 0
+10:42:05 canBuy = false, canSell = false
+10:42:05 time=9:30, 13:30
+10:42:05 AAPL:
+10:42:05 bottomPrice = 115, 115
+10:42:05 topPrice = 160, 160
+10:42:05 multiplier = 7, 7
+10:42:05 offset = -350, -350
+10:42:05 hedgeRatio  = 0.3
+10:42:05 buySell = 1, 1
+10:42:05 canBuy = true, canSell = true
+10:42:05 time=9:30, 13:30
+10:42:05 GOOGL:
+10:42:05 bottomPrice = 1990, 1990
+10:42:05 topPrice = 2800, 2800
+10:42:05 multiplier = 0.5, 0.5
+10:42:05 hedgeRatio  = 0.3
+10:42:05 offset = -25, -25
+10:42:05 buySell = 0, 0
+10:42:05 canBuy = false, canSell = false
+10:42:05 time=9:30, 13:30
+10:42:05 BG:
+10:42:05 bottomPrice = 75, 75
+10:42:05 topPrice = 120, 120
+10:42:05 multiplier = 6, 6
+10:42:05 hedgeRatio  = 0.3
+10:42:05 offset = -300, -300
+10:42:05 buySell = 1, 1
+10:42:05 canBuy = true, canSell = true
+10:42:05 shared = 0
+10:42:05 time=9:30, 13:30
+10:42:05 OPEN:
+10:42:05 bottomPrice = 15, 15
+10:42:05 topPrice = 34, 34
+10:42:05 multiplier = 8, 8
+10:42:05 offset = -800, -800
+10:42:05 hedgeRatio  = 0.8
+10:42:05 buySell = 1, 0
+10:42:05 canBuy = true, canSell = false
+10:42:05 canShort = 1
+10:42:05 time=9:30, 13:30
+10:42:05 SVXY:
+10:42:05 bottomPrice = 35, 35
+10:42:05 topPrice = 60, 60
+10:42:05 multiplier = 5, 5
+10:42:05 hedgeRatio  = 0.8
+10:42:05 buySell = 1, 1
+10:42:05 canBuy = true, canSell = true
+10:42:05 time=9:30, 13:30
+10:42:05 SE:
+10:42:05 bottomPrice = 180, 180
+10:42:05 topPrice = 270, 270
+10:42:05 multiplier = 3, 3
+10:42:05 offset = 0, 0
+10:42:05 hedgeRatio  = 0.3
+10:42:05 buySell = 0, 0
+10:42:05 canBuy = false, canSell = false
+10:42:05 time=11:18, 13:30
+10:42:05 FTCH:
+10:42:05 bottomPrice = 38, 38
+10:42:05 topPrice = 76, 76
+10:42:05 multiplier = 10, 10
+10:42:05 offset = -300, -300
+10:42:05 hedgeRatio  = 1
+10:42:05 buySell = 1, 1
+10:42:05 canBuy = true, canSell = true
+10:42:05 shared = 0
+10:42:05 time=9:50, 13:30
+10:42:05 AMC:
+10:42:05 bottomPrice = 40, 40
+10:42:05 topPrice = 200, 200
+10:42:05 multiplier = 1, 1
+10:42:05 buySell = 1, 1
+10:42:05 canBuy = true, canSell = true
+10:42:05 offset = -100, -100
+10:42:05 hedgeRatio  = 1
+10:42:05 canShort = 1
+10:42:05 time=11:8, 13:30
+10:42:05 *********Alpaca ***********
+10:42:05 *********Alpaca ***********
+TD connection Attempt 1
+10:42:06 Alpaca  clearing all positions, orders and account updating messages...
+10:42:06 Alpaca  getting account positions and orders...
+request: https://paper-api.alpaca.markets/v2/positions
+autorization success!
+Listening messages.
+request: https://paper-api.alpaca.markets/v2/orders?status=open
+10:42:08 Postions
+10:42:08 Update Position Quanty WYNN from 0 to 32
+10:42:08 New Position WISH 100000
+10:42:08 Update Position Quanty TZA from 0 to -195
+10:42:08 Update Position Quanty TSLA from 0 to -24
+10:42:08 Update Position Quanty TMV from 0 to 301
+10:42:08 Update Position Quanty TME from 0 to 699
+10:42:08 Update Position Quanty SVXY from 0 to 73
+10:42:08 Update Position Quanty SOXL from 0 to 449
+10:42:08 Update Position Quanty RCL from 0 to 24375
+10:42:08 Update Position Quanty PDD from 0 to 315
+10:42:08 Update Position Quanty NIO from 0 to -305
+10:42:08 Update Position Quanty NCLH from 0 to -267
+10:42:08 Update Position Quanty LABU from 0 to 290
+10:42:08 Update Position Quanty JD from 0 to 2021
+10:42:08 Update Position Quanty FUTU from 0 to 8
+10:42:08 Update Position Quanty FTCH from 0 to 252
+10:42:08 Update Position Quanty DASH from 0 to 93
+10:42:08 Update Position Quanty BILI from 0 to 677
+10:42:08 Update Position Quanty BIDU from 0 to 28
+10:42:08 Update Position Quanty BG from 0 to 239
+10:42:08 Update Position Quanty BABA from 0 to 243
+10:42:08 Update Position Quanty AMZN from 0 to 4
+10:42:08 Update Position Quanty AMD from 0 to 45
+10:42:08 Update Position Quanty AAPL from 0 to 29
+10:42:08 Update Position Quanty AAL from 0 to -221
+10:42:08 Alpaca Update find a new order: 9517c254-9523-4f8b-9e97-d0eda5a9bcd9, sell FUTU4(168.94)status: new
+10:42:08 Alpaca Update find a new order: 8596d203-97ab-4701-a950-05e7106b2785, buy FUTU4(166.55)status: new
+10:42:08 Alpaca Update find a new order: a268651d-66a4-4e83-b40e-577831093820, sell JD18(77.67)status: new
+10:42:08 Alpaca Update find a new order: 3d1f3247-d6a0-42a8-9e0f-d763e7ef08d5, sell AAL17(22.45)status: new
+10:42:08 Alpaca Update find a new order: bb1ff98f-f422-4ac9-9046-eabe6702b307, buy AAL18(21.96)status: new
+10:42:08 Alpaca Update find a new order: 618de346-27a8-4513-a51a-55e796cd8ab8, buy CWEB188(46.57)status: new
+10:42:08 Alpaca Update find a new order: a4fb5ec8-5595-4234-879e-0c5e2a59874f, sell TME26(16.11)status: new
+10:42:08 Alpaca Update find a new order: b5533c9a-064c-4ddc-966b-6c42ec17908d, buy TME25(15.76)status: new
+10:42:08 Alpaca Update find a new order: 1f6e9fab-b367-469d-a9b4-ab64bbd1c299, sell BILI10(127.44)status: new
+10:42:08 Alpaca Update find a new order: 2a2d64ec-3999-4da0-a213-14184136d175, sell NCLH22(31.12)status: new
+10:42:08 Alpaca Update find a new order: a67918d1-ad85-4fff-86d4-ff4bb88ab2ea, buy NCLH23(30.73)status: new
+10:42:08 Alpaca Update find a new order: 4d262b16-945d-4340-92b2-1b52252cc557, sell BG9(79.26)status: new
+10:42:08 Alpaca Update find a new order: dc3feb1f-c147-42e2-ba79-6b0171a61639, buy BG9(78.14)status: new
+10:42:08 Alpaca Update find a new order: d49caab2-aed3-42c6-bed0-3a0e270cf3f5, sell CCL23(27.75)status: new
+10:42:08 Alpaca Update find a new order: 610325ba-a83b-4f69-855b-cf9acd27f520, sell WYNN5(125.52)status: new
+10:42:08 Alpaca Update find a new order: 8768f972-e1c3-457f-a7c0-33c40e99134d, buy WYNN5(123.13)status: new
+10:42:08 Alpaca Update find a new order: b2a9f193-2980-4ced-aacb-946df44dabc3, sell AMD9(86.15)status: new
+10:42:08 Alpaca Update find a new order: 24f125c5-5ebe-4bd5-9bfa-cf0f74fa9d24, buy AMD9(85.21)status: new
+10:42:08 Alpaca Update find a new order: 50cbb008-5024-4743-9af7-90fa43bf8068, sell BABA5(224.4)status: new
+10:42:08 Alpaca Update find a new order: b3c54be4-391a-4b7f-9146-e7bb1a7c7fb9, buy BABA5(222.79)status: new
+10:42:08 Alpaca Update find a new order: ae516757-6686-4b3f-9606-7d5d506d552e, sell PDD5(127.9)status: new
+10:42:08 Alpaca Update find a new order: 712e3868-076d-425e-82ae-b526ee6c7422, buy PDD5(125.67)status: new
+10:42:08 Alpaca Update find a new order: 314ac058-b9d6-454b-9265-11c2a04bcbb1, sell LABU7(77.37)status: new
+10:42:08 Alpaca Update find a new order: 4df60b4a-969e-4629-9103-ffdafae0b51f, sell SOXL33(41.56)status: new
+10:42:08 Alpaca Update find a new order: 93d0062f-b719-4a15-828f-c28e76a43134, sell AAPL8(134.34)status: new
+10:42:08 Alpaca Update find a new order: 1db47f38-6350-4d53-8e6f-4ba939138135, buy AAPL8(133.32)status: new
+10:42:08 Alpaca Update find a new order: fdb0ec44-6354-49f7-9231-6ed8b1991649, sell TMV13(68.11)status: new
+10:42:08 Alpaca Update find a new order: d5912110-fb6d-4b09-acab-b42c1f75f45b, buy TMV13(67.38)status: new
+10:42:08 Alpaca Update find a new order: 68c62a01-bf7d-4f7c-be9b-8e84ba7d56ac, sell TZA22(27.71)status: new
+10:42:08 Alpaca Update find a new order: b9295589-094c-4eb9-a6c9-efbe40ec7908, buy TZA21(27.29)status: new
+10:42:08 Alpaca Update find a new order: e8b739bd-1bb1-499a-a3fd-05c28cd75e7e, sell FTCH11(52.25)status: new
+10:42:08 Alpaca Update find a new order: 720fad96-845a-45f8-af20-3d1505ceabb3, buy FTCH11(51.45)status: new
+10:42:08 Alpaca Update find a new order: b189d28d-60aa-4754-b0f8-c1a0ca12c814, sell SVXY9(56.03)status: new
+10:42:08 Alpaca Update find a new order: b489f899-71c0-4350-8c5a-7d96f4e770ca, buy SVXY9(54.94)status: new
+10:42:08 Alpaca Update find a new order: 4656428e-7678-4c66-9a67-6e8b25334d25, sell BIDU3(201.95)status: new
+10:42:08 Alpaca Update find a new order: 84f35638-73f8-4cb8-85ae-a4d20143765c, buy BIDU3(197.22)status: new
+10:42:08 Alpaca Update find a new order: ec323e1f-19e2-437a-820a-ec5e962a6443, sell TSLA1(699.33)status: new
+10:42:08 Alpaca Update find a new order: 8040f01e-7454-480e-9b28-62c8b5c8790a, buy TSLA1(675.5)status: new
+10:42:08 Alpaca Update find a new order: 98afc421-541c-44a2-a27b-2553ed0dc2d5, sell NIO10(45.86)status: new
+10:42:08 Alpaca Update find a new order: 572cc3d6-ea8d-45b6-b23d-9d8b27464e1c, buy NIO10(44.95)status: new
+10:42:08 Alpaca Update find a new order: 1c017b67-ccad-44c6-9650-ece6d74dd39a, buy SQQQ65(9.48)status: new
+10:42:08 Alpaca Update find a new order: a9778e21-2b5c-4c95-98b2-6812f7e959a3, sell RCL279(89.5)status: new
+request: https://paper-api.alpaca.markets/v2/account
+10:42:08 Alpaca to placed a new order: buy RCL 285-285(87.58), curPosition=24375
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"87.58","qty":"285","side":"buy","symbol":"RCL","time_in_force":"day","type":"limit"}
+10:42:09 Alpaca Placed a new order: 22090108-4a97-49e9-85a7-e515e5396f85, buy RCL 285-285(87.58), curPosition=24375
+10:42:09 Current Active Buy Order is 22090108-4a97-49e9-85a7-e515e5396f85 buy RCL 285(87.58) new
+10:42:09 Current Active Sell Order is a9778e21-2b5c-4c95-98b2-6812f7e959a3 sell RCL 279(89.5) new
+10:42:09 Alpaca to placed a new order: sell SPXS 231-231(24.43), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"24.43","qty":"231","side":"sell","symbol":"SPXS","time_in_force":"day","type":"limit"}
+{
+    "data" :
+    {
+        "event" : "new",
+        "execution_id" : "7ab1259d-b8af-4074-b7e5-4dd657aebd53",
+        "order" :
+        {
+            "asset_class" : "us_equity",
+            "asset_id" : "b4ef8484-77d0-42d9-97a5-d67948cbb979",
+            "canceled_at" : null,
+            "client_order_id" : "77299d55-d4fd-43a4-89f7-5084e38e47e8",
+            "created_at" : "2021-06-25T14:42:09.335964Z",
+            "expired_at" : null,
+            "extended_hours" : true,
+            "failed_at" : null,
+            "filled_at" : null,
+            "filled_avg_price" : null,
+            "filled_qty" : "0",
+            "hwm" : null,
+            "id" : "22090108-4a97-49e9-85a7-e515e5396f85",
+            "legs" : null,
+            "limit_price" : "87.58",
+            "notional" : null,
+            "order_class" : "",
+            "order_type" : "limit",
+            "qty" : "285",
+            "replaced_at" : null,
+            "replaced_by" : null,
+            "replaces" : null,
+            "side" : "buy",
+            "status" : "new",
+            "stop_price" : null,
+            "submitted_at" : "2021-06-25T14:42:09.307284Z",
+            "symbol" : "RCL",
+            "time_in_force" : "day",
+            "trail_percent" : null,
+            "trail_price" : null,
+            "type" : "limit",
+            "updated_at" : "2021-06-25T14:42:09.444363Z"
+        }
+    },
+    "stream" : "trade_updates"
+}
+httpCode = 403
+10:42:09 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset SPXS cannot be sold short"}
+10:42:09 No active buy order
+10:42:09 No active sell order
+10:42:09 Alpaca to placed a new order: buy SOXL 31-31(41.16), curPosition=449
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"41.16","qty":"31","side":"buy","symbol":"SOXL","time_in_force":"day","type":"limit"}
+10:42:09 Alpaca Placed a new order: 47ce1190-42c1-49f4-b27c-50dd7c5bd0ae, buy SOXL 31-31(41.16), curPosition=449
+10:42:09 Alpaca Modifying order 4df60b4a-969e-4629-9103-ffdafae0b51f, sell SOXL 33(41.56)status: new to sell33(41.43)
+replace_order
+request: https://paper-api.alpaca.markets/v2/orders/4df60b4a-969e-4629-9103-ffdafae0b51f
+{
+    "data" :
+    {
+        "event" : "fill",
+        "execution_id" : "4bc6b980-1a93-45ce-b4bf-ef0b180fd7e5",
+        "order" :
+        {
+            "asset_class" : "us_equity",
+            "asset_id" : "b4ef8484-77d0-42d9-97a5-d67948cbb979",
+            "canceled_at" : null,
+            "client_order_id" : "77299d55-d4fd-43a4-89f7-5084e38e47e8",
+            "created_at" : "2021-06-25T14:42:09.335964Z",
+            "expired_at" : null,
+            "extended_hours" : true,
+            "failed_at" : null,
+            "filled_at" : "2021-06-25T14:42:09.810072Z",
+            "filled_avg_price" : "87.56",
+            "filled_qty" : "285",
+            "hwm" : null,
+            "id" : "22090108-4a97-49e9-85a7-e515e5396f85",
+            "legs" : null,
+            "limit_price" : "87.58",
+            "notional" : null,
+            "order_class" : "",
+            "order_type" : "limit",
+            "qty" : "285",
+            "replaced_at" : null,
+            "replaced_by" : null,
+            "replaces" : null,
+            "side" : "buy",
+            "status" : "filled",
+            "stop_price" : null,
+            "submitted_at" : "2021-06-25T14:42:09.307284Z",
+            "symbol" : "RCL",
+            "time_in_force" : "day",
+            "trail_percent" : null,
+            "trail_price" : null,
+            "type" : "limit",
+            "updated_at" : "2021-06-25T14:42:09.869097Z"
+        },
+        "position_qty" : "24660",
+        "price" : "87.56",
+        "qty" : "285",
+        "timestamp" : "2021-06-25T14:42:09.810072796Z"
+    },
+    "stream" : "trade_updates"
+}
+{
+    "data" :
+    {
+        "event" : "new",
+        "execution_id" : "5a2ad9ac-5d49-4d45-87df-c27c376c46c0",
+        "order" :
+        {
+            "asset_class" : "us_equity",
+            "asset_id" : "9067979a-40eb-49ef-b8e9-c43fa950e9c7",
+            "canceled_at" : null,
+            "client_order_id" : "d01978be-d624-417d-8f9b-fb481e64b5c2",
+            "created_at" : "2021-06-25T14:42:09.859076Z",
+            "expired_at" : null,
+            "extended_hours" : true,
+            "failed_at" : null,
+            "filled_at" : null,
+            "filled_avg_price" : null,
+            "filled_qty" : "0",
+            "hwm" : null,
+            "id" : "47ce1190-42c1-49f4-b27c-50dd7c5bd0ae",
+            "legs" : null,
+            "limit_price" : "41.16",
+            "notional" : null,
+            "order_class" : "",
+            "order_type" : "limit",
+            "qty" : "31",
+            "replaced_at" : null,
+            "replaced_by" : null,
+            "replaces" : null,
+            "side" : "buy",
+            "status" : "new",
+            "stop_price" : null,
+            "submitted_at" : "2021-06-25T14:42:09.833735Z",
+            "symbol" : "SOXL",
+            "time_in_force" : "day",
+            "trail_percent" : null,
+            "trail_price" : null,
+            "type" : "limit",
+            "updated_at" : "2021-06-25T14:42:09.949195Z"
+        }
+    },
+    "stream" : "trade_updates"
+}
+10:42:09 Alpaca Replaced order 4df60b4a-969e-4629-9103-ffdafae0b51f by order: bb923b72-81b2-475b-94ff-33855b985e9a, sell SOXL 33-33(41.43), curPosition=449
+10:42:09 Alpaca End Modified order
+10:42:09 Current Active Buy Order is 47ce1190-42c1-49f4-b27c-50dd7c5bd0ae buy SOXL 31(41.16) new
+10:42:09 Current Active Sell Order is bb923b72-81b2-475b-94ff-33855b985e9a sell SOXL 33(41.43) new
+10:42:09 Alpaca Modifying order 618de346-27a8-4513-a51a-55e796cd8ab8, buy CWEB 188(46.57)status: new to buy189(46.49)
+replace_order
+request: https://paper-api.alpaca.markets/v2/orders/618de346-27a8-4513-a51a-55e796cd8ab8
+replaced events:
+{
+    "data" :
+    {
+        "event" : "replaced",
+        "execution_id" : "b634e233-3b05-49eb-85e3-dd3969ff93b3",
+        "order" :
+        {
+            "asset_class" : "us_equity",
+            "asset_id" : "9067979a-40eb-49ef-b8e9-c43fa950e9c7",
+            "canceled_at" : null,
+            "client_order_id" : "21f37560-57ab-4846-bf33-6aa92aaf2944",
+            "created_at" : "2021-06-25T14:34:39.968537Z",
+            "expired_at" : null,
+            "extended_hours" : true,
+            "failed_at" : null,
+            "filled_at" : null,
+            "filled_avg_price" : null,
+            "filled_qty" : "0",
+            "hwm" : null,
+            "id" : "4df60b4a-969e-4629-9103-ffdafae0b51f",
+            "legs" : null,
+            "limit_price" : "41.56",
+            "notional" : null,
+            "order_class" : "",
+            "order_type" : "limit",
+            "qty" : "33",
+            "replaced_at" : "2021-06-25T14:42:10.135065Z",
+            "replaced_by" : "bb923b72-81b2-475b-94ff-33855b985e9a",
+            "replaces" : "fbfa7a5d-10f0-44b6-971c-a9863f07e646",
+            "side" : "sell",
+            "status" : "replaced",
+            "stop_price" : null,
+            "submitted_at" : "2021-06-25T14:34:42.719401Z",
+            "symbol" : "SOXL",
+            "time_in_force" : "day",
+            "trail_percent" : null,
+            "trail_price" : null,
+            "type" : "limit",
+            "updated_at" : "2021-06-25T14:42:10.207316Z"
+        },
+        "timestamp" : "2021-06-25T14:42:10.135065792Z"
+    },
+    "stream" : "trade_updates"
+}
+10:42:10 Alpaca Replaced order 618de346-27a8-4513-a51a-55e796cd8ab8 by order: a287bb44-1d75-436b-bb4c-77a982a48816, buy CWEB 189-189(46.49), curPosition=0
+10:42:10 Alpaca End Modified order
+10:42:10 Current Active Buy Order is a287bb44-1d75-436b-bb4c-77a982a48816 buy CWEB 189(46.49) new
+10:42:10 No active sell order
+10:42:10 Alpaca to placed a new order: buy LABU 7-7(75.32), curPosition=290
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"75.32","qty":"7","side":"buy","symbol":"LABU","time_in_force":"day","type":"limit"}
+replaced events:
+{
+    "data" :
+    {
+        "event" : "replaced",
+        "execution_id" : "9b3b99fd-b306-44bb-a3bc-85f98f3f5a0d",
+        "order" :
+        {
+            "asset_class" : "us_equity",
+            "asset_id" : "5b68ccda-566b-4a61-9ba8-cd51a51581e4",
+            "canceled_at" : null,
+            "client_order_id" : "027e2757-0af7-4086-a5f2-c25f05f464fe",
+            "created_at" : "2021-06-25T14:34:16.628492Z",
+            "expired_at" : null,
+            "extended_hours" : true,
+            "failed_at" : null,
+            "filled_at" : null,
+            "filled_avg_price" : null,
+            "filled_qty" : "0",
+            "hwm" : null,
+            "id" : "618de346-27a8-4513-a51a-55e796cd8ab8",
+            "legs" : null,
+            "limit_price" : "46.57",
+            "notional" : null,
+            "order_class" : "",
+            "order_type" : "limit",
+            "qty" : "188",
+            "replaced_at" : "2021-06-25T14:42:10.354366Z",
+            "replaced_by" : "a287bb44-1d75-436b-bb4c-77a982a48816",
+            "replaces" : "231e865b-9c4f-4f34-957b-61ca0b697117",
+            "side" : "buy",
+            "status" : "replaced",
+            "stop_price" : null,
+            "submitted_at" : "2021-06-25T14:35:28.78976Z",
+            "symbol" : "CWEB",
+            "time_in_force" : "day",
+            "trail_percent" : null,
+            "trail_price" : null,
+            "type" : "limit",
+            "updated_at" : "2021-06-25T14:42:10.412288Z"
+        },
+        "timestamp" : "2021-06-25T14:42:10.35436616Z"
+    },
+    "stream" : "trade_updates"
+}
+10:42:10 Alpaca Placed a new order: 45709ed4-8e50-4cff-9425-172f89965ce4, buy LABU 7-7(75.32), curPosition=290
+10:42:10 Alpaca Modifying order 314ac058-b9d6-454b-9265-11c2a04bcbb1, sell LABU 7(77.37)status: new to sell7(76.69)
+replace_order
+request: https://paper-api.alpaca.markets/v2/orders/314ac058-b9d6-454b-9265-11c2a04bcbb1
+{
+    "data" :
+    {
+        "event" : "new",
+        "execution_id" : "01179f13-159b-4fb5-9b4d-0c4fbe8e267c",
+        "order" :
+        {
+            "asset_class" : "us_equity",
+            "asset_id" : "d47823e3-f804-4cc7-84b7-0b3ee97f2b0a",
+            "canceled_at" : null,
+            "client_order_id" : "a5205129-0db9-410a-bdea-19caff1909a9",
+            "created_at" : "2021-06-25T14:42:10.558887Z",
+            "expired_at" : null,
+            "extended_hours" : true,
+            "failed_at" : null,
+            "filled_at" : null,
+            "filled_avg_price" : null,
+            "filled_qty" : "0",
+            "hwm" : null,
+            "id" : "45709ed4-8e50-4cff-9425-172f89965ce4",
+            "legs" : null,
+            "limit_price" : "75.32",
+            "notional" : null,
+            "order_class" : "",
+            "order_type" : "limit",
+            "qty" : "7",
+            "replaced_at" : null,
+            "replaced_by" : null,
+            "replaces" : null,
+            "side" : "buy",
+            "status" : "new",
+            "stop_price" : null,
+            "submitted_at" : "2021-06-25T14:42:10.533951Z",
+            "symbol" : "LABU",
+            "time_in_force" : "day",
+            "trail_percent" : null,
+            "trail_price" : null,
+            "type" : "limit",
+            "updated_at" : "2021-06-25T14:42:10.6128Z"
+        }
+    },
+    "stream" : "trade_updates"
+}
+10:42:10 Alpaca Replaced order 314ac058-b9d6-454b-9265-11c2a04bcbb1 by order: 96204948-6c9b-4ec8-b898-e1edef6bba48, sell LABU 7-7(76.69), curPosition=290
+10:42:10 Alpaca End Modified order
+10:42:10 Current Active Buy Order is 45709ed4-8e50-4cff-9425-172f89965ce4 buy LABU 7(75.32) new
+10:42:10 Current Active Sell Order is 96204948-6c9b-4ec8-b898-e1edef6bba48 sell LABU 7(76.69) new
+10:42:10 Alpaca to placed a new order: buy DASH 5-5(176.57), curPosition=93
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"176.57","qty":"5","side":"buy","symbol":"DASH","time_in_force":"day","type":"limit"}
+replaced events:
+{
+    "data" :
+    {
+        "event" : "replaced",
+        "execution_id" : "97a9aae4-52e8-41af-818c-97a7edae71b5",
+        "order" :
+        {
+            "asset_class" : "us_equity",
+            "asset_id" : "d47823e3-f804-4cc7-84b7-0b3ee97f2b0a",
+            "canceled_at" : null,
+            "client_order_id" : "8e48b8d3-0f36-4a66-a40d-db6dcf3bcaa4",
+            "created_at" : "2021-06-25T14:34:40.704239Z",
+            "expired_at" : null,
+            "extended_hours" : true,
+            "failed_at" : null,
+            "filled_at" : null,
+            "filled_avg_price" : null,
+            "filled_qty" : "0",
+            "hwm" : null,
+            "id" : "314ac058-b9d6-454b-9265-11c2a04bcbb1",
+            "legs" : null,
+            "limit_price" : "77.37",
+            "notional" : null,
+            "order_class" : "",
+            "order_type" : "limit",
+            "qty" : "7",
+            "replaced_at" : "2021-06-25T14:42:10.778559Z",
+            "replaced_by" : "96204948-6c9b-4ec8-b898-e1edef6bba48",
+            "replaces" : "722f6823-ea60-402c-9c8d-fa9ddbfa155b",
+            "side" : "sell",
+            "status" : "replaced",
+            "stop_price" : null,
+            "submitted_at" : "2021-06-25T14:34:43.281146Z",
+            "symbol" : "LABU",
+            "time_in_force" : "day",
+            "trail_percent" : null,
+            "trail_price" : null,
+            "type" : "limit",
+            "updated_at" : "2021-06-25T14:42:10.814591Z"
+        },
+        "timestamp" : "2021-06-25T14:42:10.778559121Z"
+    },
+    "stream" : "trade_updates"
+}
+10:42:10 Alpaca Placed a new order: 8cd066b1-2a28-466e-bd4e-84253394bd5b, buy DASH 5-5(176.57), curPosition=93
+10:42:10 Alpaca to placed a new order: sell DASH 5-5(178.84), curPosition=93
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"178.84","qty":"5","side":"sell","symbol":"DASH","time_in_force":"day","type":"limit"}
+{
+    "data" :
+    {
+        "event" : "new",
+        "execution_id" : "8f3d604a-ec9f-4c26-bb23-d7e2d9951aea",
+        "order" :
+        {
+            "asset_class" : "us_equity",
+            "asset_id" : "5453d1f0-0efc-4738-b1b1-d330e5910e2f",
+            "canceled_at" : null,
+            "client_order_id" : "29a81cd2-f0ae-446b-94d9-bdd6d4cc4d4d",
+            "created_at" : "2021-06-25T14:42:10.996129Z",
+            "expired_at" : null,
+            "extended_hours" : true,
+            "failed_at" : null,
+            "filled_at" : null,
+            "filled_avg_price" : null,
+            "filled_qty" : "0",
+            "hwm" : null,
+            "id" : "8cd066b1-2a28-466e-bd4e-84253394bd5b",
+            "legs" : null,
+            "limit_price" : "176.57",
+            "notional" : null,
+            "order_class" : "",
+            "order_type" : "limit",
+            "qty" : "5",
+            "replaced_at" : null,
+            "replaced_by" : null,
+            "replaces" : null,
+            "side" : "buy",
+            "status" : "new",
+            "stop_price" : null,
+            "submitted_at" : "2021-06-25T14:42:10.964417Z",
+            "symbol" : "DASH",
+            "time_in_force" : "day",
+            "trail_percent" : null,
+            "trail_price" : null,
+            "type" : "limit",
+            "updated_at" : "2021-06-25T14:42:11.148177Z"
+        }
+    },
+    "stream" : "trade_updates"
+}
+10:42:10 Alpaca Placed a new order: 681f7016-8f34-43e7-bd3d-b549fdd452d5, sell DASH 5-5(178.84), curPosition=93
+10:42:10 Current Active Buy Order is 8cd066b1-2a28-466e-bd4e-84253394bd5b buy DASH 5(176.57) new
+10:42:10 Current Active Sell Order is 681f7016-8f34-43e7-bd3d-b549fdd452d5 sell DASH 5(178.84) new
+10:42:10 Alpaca to placed a new order: sell ARKK 200-200(124.78), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"124.78","qty":"200","side":"sell","symbol":"ARKK","time_in_force":"day","type":"limit"}
+{
+    "data" :
+    {
+        "event" : "new",
+        "execution_id" : "2ab3f777-9c5e-4e5b-a09a-0806bab19348",
+        "order" :
+        {
+            "asset_class" : "us_equity",
+            "asset_id" : "5453d1f0-0efc-4738-b1b1-d330e5910e2f",
+            "canceled_at" : null,
+            "client_order_id" : "6b57419e-42d9-4231-942c-360df7d07bb5",
+            "created_at" : "2021-06-25T14:42:11.168371Z",
+            "expired_at" : null,
+            "extended_hours" : true,
+            "failed_at" : null,
+            "filled_at" : null,
+            "filled_avg_price" : null,
+            "filled_qty" : "0",
+            "hwm" : null,
+            "id" : "681f7016-8f34-43e7-bd3d-b549fdd452d5",
+            "legs" : null,
+            "limit_price" : "178.84",
+            "notional" : null,
+            "order_class" : "",
+            "order_type" : "limit",
+            "qty" : "5",
+            "replaced_at" : null,
+            "replaced_by" : null,
+            "replaces" : null,
+            "side" : "sell",
+            "status" : "new",
+            "stop_price" : null,
+            "submitted_at" : "2021-06-25T14:42:11.158759Z",
+            "symbol" : "DASH",
+            "time_in_force" : "day",
+            "trail_percent" : null,
+            "trail_price" : null,
+            "type" : "limit",
+            "updated_at" : "2021-06-25T14:42:11.261831Z"
+        }
+    },
+    "stream" : "trade_updates"
+}
+httpCode = 403
+10:42:11 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset ARKK cannot be sold short"}
+10:42:11 No active buy order
+10:42:11 No active sell order
+10:42:11 Alpaca to placed a new order: buy JD 19-19(76.93), curPosition=2021
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"76.93","qty":"19","side":"buy","symbol":"JD","time_in_force":"day","type":"limit"}
+10:42:11 Alpaca Placed a new order: e23b4168-6a1c-4e56-86d9-af4f684f9a82, buy JD 19-19(76.93), curPosition=2021
+10:42:11 Alpaca Modifying order a268651d-66a4-4e83-b40e-577831093820, sell JD 18(77.67)status: new to sell18(77.43)
+replace_order
+request: https://paper-api.alpaca.markets/v2/orders/a268651d-66a4-4e83-b40e-577831093820
+{
+    "data" :
+    {
+        "event" : "new",
+        "execution_id" : "debfc82a-4166-4063-8b13-03de797987f7",
+        "order" :
+        {
+            "asset_class" : "us_equity",
+            "asset_id" : "fc40e5be-8683-4071-b85e-940a7591c9b8",
+            "canceled_at" : null,
+            "client_order_id" : "86c2a654-5de7-4568-abb6-8ef3eac4a661",
+            "created_at" : "2021-06-25T14:42:11.52693Z",
+            "expired_at" : null,
+            "extended_hours" : true,
+            "failed_at" : null,
+            "filled_at" : null,
+            "filled_avg_price" : null,
+            "filled_qty" : "0",
+            "hwm" : null,
+            "id" : "e23b4168-6a1c-4e56-86d9-af4f684f9a82",
+            "legs" : null,
+            "limit_price" : "76.93",
+            "notional" : null,
+            "order_class" : "",
+            "order_type" : "limit",
+            "qty" : "19",
+            "replaced_at" : null,
+            "replaced_by" : null,
+            "replaces" : null,
+            "side" : "buy",
+            "status" : "new",
+            "stop_price" : null,
+            "submitted_at" : "2021-06-25T14:42:11.495896Z",
+            "symbol" : "JD",
+            "time_in_force" : "day",
+            "trail_percent" : null,
+            "trail_price" : null,
+            "type" : "limit",
+            "updated_at" : "2021-06-25T14:42:11.578352Z"
+        }
+    },
+    "stream" : "trade_updates"
+}
+10:42:11 Alpaca Replaced order a268651d-66a4-4e83-b40e-577831093820 by order: fd11892e-f7d1-4fa5-8bd3-3d827dfbec56, sell JD 18-18(77.43), curPosition=2021
+10:42:11 Alpaca End Modified order
+10:42:11 Current Active Buy Order is e23b4168-6a1c-4e56-86d9-af4f684f9a82 buy JD 19(76.93) new
+10:42:11 Current Active Sell Order is fd11892e-f7d1-4fa5-8bd3-3d827dfbec56 sell JD 18(77.43) new
+10:42:11 Alpaca to placed a new order: buy BILI 10-10(126.11), curPosition=677
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"126.11","qty":"10","side":"buy","symbol":"BILI","time_in_force":"day","type":"limit"}
+replaced events:
+{
+    "data" :
+    {
+        "event" : "replaced",
+        "execution_id" : "acd7cfba-7748-47b1-8261-7d9f109b80ee",
+        "order" :
+        {
+            "asset_class" : "us_equity",
+            "asset_id" : "fc40e5be-8683-4071-b85e-940a7591c9b8",
+            "canceled_at" : null,
+            "client_order_id" : "0161f33b-8f0f-4345-bc72-d3e0bd20def1",
+            "created_at" : "2021-06-25T14:34:39.788682Z",
+            "expired_at" : null,
+            "extended_hours" : true,
+            "failed_at" : null,
+            "filled_at" : null,
+            "filled_avg_price" : null,
+            "filled_qty" : "0",
+            "hwm" : null,
+            "id" : "a268651d-66a4-4e83-b40e-577831093820",
+            "legs" : null,
+            "limit_price" : "77.67",
+            "notional" : null,
+            "order_class" : "",
+            "order_type" : "limit",
+            "qty" : "18",
+            "replaced_at" : "2021-06-25T14:42:11.719028Z",
+            "replaced_by" : "fd11892e-f7d1-4fa5-8bd3-3d827dfbec56",
+            "replaces" : "5ed8c153-c3b9-4763-a962-4866bf813159",
+            "side" : "sell",
+            "status" : "replaced",
+            "stop_price" : null,
+            "submitted_at" : "2021-06-25T14:35:53.088429Z",
+            "symbol" : "JD",
+            "time_in_force" : "day",
+            "trail_percent" : null,
+            "trail_price" : null,
+            "type" : "limit",
+            "updated_at" : "2021-06-25T14:42:11.786807Z"
+        },
+        "timestamp" : "2021-06-25T14:42:11.719028468Z"
+    },
+    "stream" : "trade_updates"
+}
+10:42:11 Alpaca Placed a new order: 3f013423-5a1b-4d23-b89c-043b76964e4e, buy BILI 10-10(126.11), curPosition=677
+10:42:11 Alpaca Modifying order 1f6e9fab-b367-469d-a9b4-ab64bbd1c299, sell BILI 10(127.44)status: new to sell10(127)
+replace_order
+request: https://paper-api.alpaca.markets/v2/orders/1f6e9fab-b367-469d-a9b4-ab64bbd1c299
+{
+    "data" :
+    {
+        "event" : "new",
+        "execution_id" : "48ccd533-77b8-4485-ab60-a43d8585094a",
+        "order" :
+        {
+            "asset_class" : "us_equity",
+            "asset_id" : "53161918-a2a0-45c2-9201-c6facab1912f",
+            "canceled_at" : null,
+            "client_order_id" : "c34c09da-94b1-4eda-b838-cf0519c9dcfb",
+            "created_at" : "2021-06-25T14:42:11.913971Z",
+            "expired_at" : null,
+            "extended_hours" : true,
+            "failed_at" : null,
+            "filled_at" : null,
+            "filled_avg_price" : null,
+            "filled_qty" : "0",
+            "hwm" : null,
+            "id" : "3f013423-5a1b-4d23-b89c-043b76964e4e",
+            "legs" : null,
+            "limit_price" : "126.11",
+            "notional" : null,
+            "order_class" : "",
+            "order_type" : "limit",
+            "qty" : "10",
+            "replaced_at" : null,
+            "replaced_by" : null,
+            "replaces" : null,
+            "side" : "buy",
+            "status" : "new",
+            "stop_price" : null,
+            "submitted_at" : "2021-06-25T14:42:11.882212Z",
+            "symbol" : "BILI",
+            "time_in_force" : "day",
+            "trail_percent" : null,
+            "trail_price" : null,
+            "type" : "limit",
+            "updated_at" : "2021-06-25T14:42:11.983448Z"
+        }
+    },
+    "stream" : "trade_updates"
+}
+10:42:11 Alpaca Replaced order 1f6e9fab-b367-469d-a9b4-ab64bbd1c299 by order: e1411333-1ed6-47df-b372-69a3301515e2, sell BILI 10-10(127), curPosition=677
+10:42:11 Alpaca End Modified order
+10:42:11 Current Active Buy Order is 3f013423-5a1b-4d23-b89c-043b76964e4e buy BILI 10(126.11) new
+10:42:11 Current Active Sell Order is e1411333-1ed6-47df-b372-69a3301515e2 sell BILI 10(127) new
+10:42:11 Alpaca to placed a new order: buy AMZN 1-1(3379.23), curPosition=4
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"3379.23","qty":"1","side":"buy","symbol":"AMZN","time_in_force":"day","type":"limit"}
+replaced events:
+{
+    "data" :
+    {
+        "event" : "replaced",
+        "execution_id" : "62b493da-79c2-4a08-8108-cbf8181dc7ab",
+        "order" :
+        {
+            "asset_class" : "us_equity",
+            "asset_id" : "53161918-a2a0-45c2-9201-c6facab1912f",
+            "canceled_at" : null,
+            "client_order_id" : "e2e183d0-c7bd-49de-bf92-ede6acb99b72",
+            "created_at" : "2021-06-25T14:34:32.304287Z",
+            "expired_at" : null,
+            "extended_hours" : true,
+            "failed_at" : null,
+            "filled_at" : null,
+            "filled_avg_price" : null,
+            "filled_qty" : "0",
+            "hwm" : null,
+            "id" : "1f6e9fab-b367-469d-a9b4-ab64bbd1c299",
+            "legs" : null,
+            "limit_price" : "127.44",
+            "notional" : null,
+            "order_class" : "",
+            "order_type" : "limit",
+            "qty" : "10",
+            "replaced_at" : "2021-06-25T14:42:12.124274Z",
+            "replaced_by" : "e1411333-1ed6-47df-b372-69a3301515e2",
+            "replaces" : "7f188117-e497-4643-92ce-c9ffd116c4d2",
+            "side" : "sell",
+            "status" : "replaced",
+            "stop_price" : null,
+            "submitted_at" : "2021-06-25T14:35:24.55337Z",
+            "symbol" : "BILI",
+            "time_in_force" : "day",
+            "trail_percent" : null,
+            "trail_price" : null,
+            "type" : "limit",
+            "updated_at" : "2021-06-25T14:42:12.19466Z"
+        },
+        "timestamp" : "2021-06-25T14:42:12.124274668Z"
+    },
+    "stream" : "trade_updates"
+}
+10:42:12 Alpaca Placed a new order: 6baecd0b-7a36-490c-b6c1-ecf161e56d6f, buy AMZN 1-1(3379.23), curPosition=4
+10:42:12 Alpaca to placed a new order: sell AMZN 1-1(3479.69), curPosition=4
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"3479.69","qty":"1","side":"sell","symbol":"AMZN","time_in_force":"day","type":"limit"}
+{
+    "data" :
+    {
+        "event" : "new",
+        "execution_id" : "7d5b52c3-ed83-4905-a174-009f62270434",
+        "order" :
+        {
+            "asset_class" : "us_equity",
+            "asset_id" : "f801f835-bfe6-4a9d-a6b1-ccbb84bfd75f",
+            "canceled_at" : null,
+            "client_order_id" : "69509c60-9dd8-4958-9d39-0be309b0446d",
+            "created_at" : "2021-06-25T14:42:12.327143Z",
+            "expired_at" : null,
+            "extended_hours" : true,
+            "failed_at" : null,
+            "filled_at" : null,
+            "filled_avg_price" : null,
+            "filled_qty" : "0",
+            "hwm" : null,
+            "id" : "6baecd0b-7a36-490c-b6c1-ecf161e56d6f",
+            "legs" : null,
+            "limit_price" : "3379.23",
+            "notional" : null,
+            "order_class" : "",
+            "order_type" : "limit",
+            "qty" : "1",
+            "replaced_at" : null,
+            "replaced_by" : null,
+            "replaces" : null,
+            "side" : "buy",
+            "status" : "new",
+            "stop_price" : null,
+            "submitted_at" : "2021-06-25T14:42:12.296418Z",
+            "symbol" : "AMZN",
+            "time_in_force" : "day",
+            "trail_percent" : null,
+            "trail_price" : null,
+            "type" : "limit",
+            "updated_at" : "2021-06-25T14:42:12.37444Z"
+        }
+    },
+    "stream" : "trade_updates"
+}
+10:42:12 Alpaca Placed a new order: a2c64777-a161-4c88-8574-14d380b9dacf, sell AMZN 1-1(3479.69), curPosition=4
+10:42:12 Current Active Buy Order is 6baecd0b-7a36-490c-b6c1-ecf161e56d6f buy AMZN 1(3379.23) new
+10:42:12 Current Active Sell Order is a2c64777-a161-4c88-8574-14d380b9dacf sell AMZN 1(3479.69) new
+10:42:12 Alpaca to placed a new order: sell AMC 18-18(54.19), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"54.19","qty":"18","side":"sell","symbol":"AMC","time_in_force":"day","type":"limit"}
+{
+    "data" :
+    {
+        "event" : "new",
+        "execution_id" : "104d56ef-b2cf-4090-97e3-3c5da89aafb6",
+        "order" :
+        {
+            "asset_class" : "us_equity",
+            "asset_id" : "f801f835-bfe6-4a9d-a6b1-ccbb84bfd75f",
+            "canceled_at" : null,
+            "client_order_id" : "cc07a9fc-cc20-48e6-9d7d-5d26ee483056",
+            "created_at" : "2021-06-25T14:42:12.516699Z",
+            "expired_at" : null,
+            "extended_hours" : true,
+            "failed_at" : null,
+            "filled_at" : null,
+            "filled_avg_price" : null,
+            "filled_qty" : "0",
+            "hwm" : null,
+            "id" : "a2c64777-a161-4c88-8574-14d380b9dacf",
+            "legs" : null,
+            "limit_price" : "3479.69",
+            "notional" : null,
+            "order_class" : "",
+            "order_type" : "limit",
+            "qty" : "1",
+            "replaced_at" : null,
+            "replaced_by" : null,
+            "replaces" : null,
+            "side" : "sell",
+            "status" : "new",
+            "stop_price" : null,
+            "submitted_at" : "2021-06-25T14:42:12.507284Z",
+            "symbol" : "AMZN",
+            "time_in_force" : "day",
+            "trail_percent" : null,
+            "trail_price" : null,
+            "type" : "limit",
+            "updated_at" : "2021-06-25T14:42:12.562152Z"
+        }
+    },
+    "stream" : "trade_updates"
+}
+httpCode = 403
+10:42:12 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset AMC cannot be sold short"}
+10:42:12 No active buy order
+10:42:12 No active sell order
+10:42:12 Alpaca confirms a new order: 22090108-4a97-49e9-85a7-e515e5396f85, buy RCL 87.58 285(285)status: new
+10:42:12 Alpaca Order filled 22090108-4a97-49e9-85a7-e515e5396f85: buy RCL 285 of 285(87.58)10:42:12 total profit 0.203507
+10:42:12 update RCL postion from 24375 to 10:42:12 24660
+10:42:12 Alpaca to placed a new order: sell RCL 285-285(87.62), curPosition=24660
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"87.62","qty":"285","side":"sell","symbol":"RCL","time_in_force":"day","type":"limit"}
+10:42:12 Alpaca Placed a new order: 498a372c-3736-499b-ba01-1f152086be38, sell RCL 285-285(87.62), curPosition=24660
+10:42:12 Alpaca confirms a new order: 47ce1190-42c1-49f4-b27c-50dd7c5bd0ae, buy SOXL 41.16 31(31)status: new
+10:42:12 Alpaca confirms order 4df60b4a-969e-4629-9103-ffdafae0b51f is cancelled
+10:42:12 Alpaca confirms a new order: bb923b72-81b2-475b-94ff-33855b985e9a, sell SOXL 41.43 33(33)status: new
+10:42:12 Alpaca confirms order 618de346-27a8-4513-a51a-55e796cd8ab8 is cancelled
+10:42:12 Alpaca confirms a new order: a287bb44-1d75-436b-bb4c-77a982a48816, buy CWEB 46.49 189(189)status: new
+10:42:12 Alpaca confirms a new order: 45709ed4-8e50-4cff-9425-172f89965ce4, buy LABU 75.32 7(7)status: new
+10:42:12 Alpaca confirms order 314ac058-b9d6-454b-9265-11c2a04bcbb1 is cancelled
+10:42:12 Alpaca confirms a new order: 96204948-6c9b-4ec8-b898-e1edef6bba48, sell LABU 76.69 7(7)status: new
+10:42:12 Alpaca confirms a new order: 8cd066b1-2a28-466e-bd4e-84253394bd5b, buy DASH 176.57 5(5)status: new
+10:42:12 Alpaca confirms a new order: 681f7016-8f34-43e7-bd3d-b549fdd452d5, sell DASH 178.84 5(5)status: new
+10:42:12 Alpaca confirms a new order: e23b4168-6a1c-4e56-86d9-af4f684f9a82, buy JD 76.93 19(19)status: new
+10:42:12 Alpaca confirms order a268651d-66a4-4e83-b40e-577831093820 is cancelled
+10:42:12 Alpaca confirms a new order: fd11892e-f7d1-4fa5-8bd3-3d827dfbec56, sell JD 77.43 18(18)status: new
+10:42:12 Alpaca confirms a new order: 3f013423-5a1b-4d23-b89c-043b76964e4e, buy BILI 126.11 10(10)status: new
+10:42:12 Alpaca confirms order 1f6e9fab-b367-469d-a9b4-ab64bbd1c299 is cancelled
+10:42:12 Alpaca confirms a new order: e1411333-1ed6-47df-b372-69a3301515e2, sell BILI 127 10(10)status: new
+10:42:12 Alpaca confirms a new order: 6baecd0b-7a36-490c-b6c1-ecf161e56d6f, buy AMZN 3379.23 1(1)status: new
+10:42:12 Alpaca confirms a new order: a2c64777-a161-4c88-8574-14d380b9dacf, sell AMZN 3479.69 1(1)status: new
+{
+    "data" :
+    {
+        "event" : "new",
+        "execution_id" : "a8b13bfb-89cf-456e-b388-1408043323bc",
+        "order" :
+        {
+            "asset_class" : "us_equity",
+            "asset_id" : "b4ef8484-77d0-42d9-97a5-d67948cbb979",
+            "canceled_at" : null,
+            "client_order_id" : "d53bd99c-92b2-4fc7-9d24-8c819010fca2",
+            "created_at" : "2021-06-25T14:42:12.891677Z",
+            "expired_at" : null,
+            "extended_hours" : true,
+            "failed_at" : null,
+            "filled_at" : null,
+            "filled_avg_price" : null,
+            "filled_qty" : "0",
+            "hwm" : null,
+            "id" : "498a372c-3736-499b-ba01-1f152086be38",
+            "legs" : null,
+            "limit_price" : "87.62",
+            "notional" : null,
+            "order_class" : "",
+            "order_type" : "limit",
+            "qty" : "285",
+            "replaced_at" : null,
+            "replaced_by" : null,
+            "replaces" : null,
+            "side" : "sell",
+            "status" : "new",
+            "stop_price" : null,
+            "submitted_at" : "2021-06-25T14:42:12.884428Z",
+            "symbol" : "RCL",
+            "time_in_force" : "day",
+            "trail_percent" : null,
+            "trail_price" : null,
+            "type" : "limit",
+            "updated_at" : "2021-06-25T14:42:12.98297Z"
+        }
+    },
+    "stream" : "trade_updates"
+}
+10:42:12 Alpaca confirms a new order: 498a372c-3736-499b-ba01-1f152086be38, sell RCL 87.62 285(285)status: new
+10:42:12 Extra Selling order to be cancelled
+Alpaca Cancel Order ID: 498a372c-3736-499b-ba01-1f152086be38
+request: https://paper-api.alpaca.markets/v2/orders/498a372c-3736-499b-ba01-1f152086be38
+httpCode = 204
+10:42:13 REDMSG Alpaca Cancel Order Error
+10:42:13 REDMSG cancelOrder ErrorMsg:
+10:42:13 Alpaca to placed a new order: buy RCL 286-286(87.54), curPosition=24660
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"87.54","qty":"286","side":"buy","symbol":"RCL","time_in_force":"day","type":"limit"}
+{
+    "data" :
+    {
+        "event" : "canceled",
+        "execution_id" : "6af62eba-d27f-483e-a34c-09a53b627539",
+        "order" :
+        {
+            "asset_class" : "us_equity",
+            "asset_id" : "b4ef8484-77d0-42d9-97a5-d67948cbb979",
+            "canceled_at" : "2021-06-25T14:42:13.301532Z",
+            "client_order_id" : "d53bd99c-92b2-4fc7-9d24-8c819010fca2",
+            "created_at" : "2021-06-25T14:42:12.891677Z",
+            "expired_at" : null,
+            "extended_hours" : true,
+            "failed_at" : null,
+            "filled_at" : null,
+            "filled_avg_price" : null,
+            "filled_qty" : "0",
+            "hwm" : null,
+            "id" : "498a372c-3736-499b-ba01-1f152086be38",
+            "legs" : null,
+            "limit_price" : "87.62",
+            "notional" : null,
+            "order_class" : "",
+            "order_type" : "limit",
+            "qty" : "285",
+            "replaced_at" : null,
+            "replaced_by" : null,
+            "replaces" : null,
+            "side" : "sell",
+            "status" : "canceled",
+            "stop_price" : null,
+            "submitted_at" : "2021-06-25T14:42:12.884428Z",
+            "symbol" : "RCL",
+            "time_in_force" : "day",
+            "trail_percent" : null,
+            "trail_price" : null,
+            "type" : "limit",
+            "updated_at" : "2021-06-25T14:42:13.364774Z"
+        },
+        "timestamp" : "2021-06-25T14:42:13.301532504Z"
+    },
+    "stream" : "trade_updates"
+}
+10:42:13 Alpaca Placed a new order: 5a80e904-0c52-4400-b38f-a3e449a06f52, buy RCL 286-286(87.54), curPosition=24660
+10:42:13 Current Active Buy Order is 5a80e904-0c52-4400-b38f-a3e449a06f52 buy RCL 286(87.54) new
+10:42:13 Current Active Sell Order is a9778e21-2b5c-4c95-98b2-6812f7e959a3 sell RCL 279(89.5) new
+10:42:13 Alpaca to placed a new order: sell SPXS 231-231(24.43), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"24.43","qty":"231","side":"sell","symbol":"SPXS","time_in_force":"day","type":"limit"}
+{
+    "data" :
+    {
+        "event" : "new",
+        "execution_id" : "a713531c-5e00-4b86-b730-7ea6e4c450b6",
+        "order" :
+        {
+            "asset_class" : "us_equity",
+            "asset_id" : "b4ef8484-77d0-42d9-97a5-d67948cbb979",
+            "canceled_at" : null,
+            "client_order_id" : "3322b838-efeb-4032-bbb7-0d1844520fc3",
+            "created_at" : "2021-06-25T14:42:13.494781Z",
+            "expired_at" : null,
+            "extended_hours" : true,
+            "failed_at" : null,
+            "filled_at" : null,
+            "filled_avg_price" : null,
+            "filled_qty" : "0",
+            "hwm" : null,
+            "id" : "5a80e904-0c52-4400-b38f-a3e449a06f52",
+            "legs" : null,
+            "limit_price" : "87.54",
+            "notional" : null,
+            "order_class" : "",
+            "order_type" : "limit",
+            "qty" : "286",
+            "replaced_at" : null,
+            "replaced_by" : null,
+            "replaces" : null,
+            "side" : "buy",
+            "status" : "new",
+            "stop_price" : null,
+            "submitted_at" : "2021-06-25T14:42:13.46453Z",
+            "symbol" : "RCL",
+            "time_in_force" : "day",
+            "trail_percent" : null,
+            "trail_price" : null,
+            "type" : "limit",
+            "updated_at" : "2021-06-25T14:42:13.58775Z"
+        }
+    },
+    "stream" : "trade_updates"
+}
+httpCode = 403
+10:42:13 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset SPXS cannot be sold short"}
+10:42:13 No active buy order
+10:42:13 No active sell order
+10:42:13 Alpaca to placed a new order: sell ARKK 200-200(124.81), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"124.81","qty":"200","side":"sell","symbol":"ARKK","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:13 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset ARKK cannot be sold short"}
+10:42:13 No active buy order
+10:42:13 No active sell order
+10:42:13 Alpaca to placed a new order: sell AMC 18-18(54.16), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"54.16","qty":"18","side":"sell","symbol":"AMC","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:13 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset AMC cannot be sold short"}
+10:42:13 No active buy order
+10:42:13 No active sell order
+10:42:13 Alpaca confirms order 498a372c-3736-499b-ba01-1f152086be38 is cancelled
+10:42:13 Alpaca confirms a new order: 5a80e904-0c52-4400-b38f-a3e449a06f52, buy RCL 87.54 286(286)status: new
+10:42:14 Alpaca Modifying order 5a80e904-0c52-4400-b38f-a3e449a06f52, buy RCL 286(87.54)status: new to buy286(87.53)
+replace_order
+request: https://paper-api.alpaca.markets/v2/orders/5a80e904-0c52-4400-b38f-a3e449a06f52
+10:42:14 Alpaca Replaced order 5a80e904-0c52-4400-b38f-a3e449a06f52 by order: ee2d75a0-b2c4-408e-94d9-a66c175cd10f, buy RCL 286-286(87.53), curPosition=24660
+10:42:14 Alpaca End Modified order
+10:42:14 Current Active Buy Order is ee2d75a0-b2c4-408e-94d9-a66c175cd10f buy RCL 286(87.53) new
+10:42:14 Current Active Sell Order is a9778e21-2b5c-4c95-98b2-6812f7e959a3 sell RCL 279(89.5) new
+10:42:14 Alpaca to placed a new order: sell SPXS 231-231(24.43), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"24.43","qty":"231","side":"sell","symbol":"SPXS","time_in_force":"day","type":"limit"}
+replaced events:
+{
+    "data" :
+    {
+        "event" : "replaced",
+        "execution_id" : "dbf343ba-ecd8-4d5b-9897-e18c5ce1350d",
+        "order" :
+        {
+            "asset_class" : "us_equity",
+            "asset_id" : "b4ef8484-77d0-42d9-97a5-d67948cbb979",
+            "canceled_at" : null,
+            "client_order_id" : "3322b838-efeb-4032-bbb7-0d1844520fc3",
+            "created_at" : "2021-06-25T14:42:13.494781Z",
+            "expired_at" : null,
+            "extended_hours" : true,
+            "failed_at" : null,
+            "filled_at" : null,
+            "filled_avg_price" : null,
+            "filled_qty" : "0",
+            "hwm" : null,
+            "id" : "5a80e904-0c52-4400-b38f-a3e449a06f52",
+            "legs" : null,
+            "limit_price" : "87.54",
+            "notional" : null,
+            "order_class" : "",
+            "order_type" : "limit",
+            "qty" : "286",
+            "replaced_at" : "2021-06-25T14:42:14.540886Z",
+            "replaced_by" : "ee2d75a0-b2c4-408e-94d9-a66c175cd10f",
+            "replaces" : null,
+            "side" : "buy",
+            "status" : "replaced",
+            "stop_price" : null,
+            "submitted_at" : "2021-06-25T14:42:13.46453Z",
+            "symbol" : "RCL",
+            "time_in_force" : "day",
+            "trail_percent" : null,
+            "trail_price" : null,
+            "type" : "limit",
+            "updated_at" : "2021-06-25T14:42:14.604867Z"
+        },
+        "timestamp" : "2021-06-25T14:42:14.540886134Z"
+    },
+    "stream" : "trade_updates"
+}
+httpCode = 403
+10:42:14 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset SPXS cannot be sold short"}
+10:42:14 No active buy order
+10:42:14 No active sell order
+10:42:14 Alpaca to placed a new order: sell ARKK 200-200(124.82), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"124.82","qty":"200","side":"sell","symbol":"ARKK","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:14 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset ARKK cannot be sold short"}
+10:42:14 No active buy order
+10:42:14 No active sell order
+10:42:14 Alpaca to placed a new order: sell AMC 18-18(54.15), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"54.15","qty":"18","side":"sell","symbol":"AMC","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:14 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset AMC cannot be sold short"}
+10:42:14 No active buy order
+10:42:14 No active sell order
+10:42:14 Alpaca confirms order 5a80e904-0c52-4400-b38f-a3e449a06f52 is cancelled
+10:42:14 Alpaca confirms a new order: ee2d75a0-b2c4-408e-94d9-a66c175cd10f, buy RCL 87.53 286(286)status: new
+10:42:14 Alpaca to placed a new order: sell SPXS 231-231(24.43), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"24.43","qty":"231","side":"sell","symbol":"SPXS","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:15 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset SPXS cannot be sold short"}
+10:42:15 No active buy order
+10:42:15 No active sell order
+10:42:15 Alpaca to placed a new order: sell ARKK 200-200(124.83), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"124.83","qty":"200","side":"sell","symbol":"ARKK","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:15 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset ARKK cannot be sold short"}
+10:42:15 No active buy order
+10:42:15 No active sell order
+10:42:15 Alpaca to placed a new order: sell AMC 18-18(54.15), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"54.15","qty":"18","side":"sell","symbol":"AMC","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:15 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset AMC cannot be sold short"}
+10:42:15 No active buy order
+10:42:15 No active sell order
+10:42:15 Alpaca to placed a new order: sell SPXS 231-231(24.43), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"24.43","qty":"231","side":"sell","symbol":"SPXS","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:15 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset SPXS cannot be sold short"}
+10:42:15 No active buy order
+10:42:15 No active sell order
+10:42:15 Alpaca to placed a new order: sell ARKK 200-200(124.83), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"124.83","qty":"200","side":"sell","symbol":"ARKK","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:16 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset ARKK cannot be sold short"}
+10:42:16 No active buy order
+10:42:16 No active sell order
+10:42:16 Alpaca to placed a new order: sell AMC 18-18(54.15), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"54.15","qty":"18","side":"sell","symbol":"AMC","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:16 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset AMC cannot be sold short"}
+10:42:16 No active buy order
+10:42:16 No active sell order
+10:42:16 Alpaca to placed a new order: sell SPXS 231-231(24.43), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"24.43","qty":"231","side":"sell","symbol":"SPXS","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:16 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset SPXS cannot be sold short"}
+10:42:16 No active buy order
+10:42:16 No active sell order
+10:42:16 Alpaca to placed a new order: sell ARKK 200-200(124.83), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"124.83","qty":"200","side":"sell","symbol":"ARKK","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:16 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset ARKK cannot be sold short"}
+10:42:16 No active buy order
+10:42:16 No active sell order
+10:42:16 Alpaca to placed a new order: sell AMC 18-18(54.15), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"54.15","qty":"18","side":"sell","symbol":"AMC","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:16 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset AMC cannot be sold short"}
+10:42:16 No active buy order
+10:42:16 No active sell order
+10:42:16 Order ee2d75a0-b2c4-408e-94d9-a66c175cd10f buy RCL is guess filled, because buy order price 87.53 >= lastPrice 87.52
+request: https://paper-api.alpaca.markets/v2/orders/ee2d75a0-b2c4-408e-94d9-a66c175cd10f
+10:42:17 Get order info, order ee2d75a0-b2c4-408e-94d9-a66c175cd10f is new
+10:42:17 Alpaca to placed a new order: sell SPXS 231-231(24.43), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"24.43","qty":"231","side":"sell","symbol":"SPXS","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:17 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset SPXS cannot be sold short"}
+10:42:17 No active buy order
+10:42:17 No active sell order
+10:42:17 Alpaca Modifying order a287bb44-1d75-436b-bb4c-77a982a48816, buy CWEB 189(46.49)status: new to buy189(46.5)
+replace_order
+request: https://paper-api.alpaca.markets/v2/orders/a287bb44-1d75-436b-bb4c-77a982a48816
+10:42:17 Alpaca Replaced order a287bb44-1d75-436b-bb4c-77a982a48816 by order: 1d958beb-9133-416b-b56b-bdae8842a406, buy CWEB 189-189(46.5), curPosition=0
+10:42:17 Alpaca End Modified order
+10:42:17 Current Active Buy Order is 1d958beb-9133-416b-b56b-bdae8842a406 buy CWEB 189(46.5) new
+10:42:17 No active sell order
+10:42:17 Alpaca to placed a new order: sell ARKK 200-200(124.82), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"124.82","qty":"200","side":"sell","symbol":"ARKK","time_in_force":"day","type":"limit"}
+replaced events:
+{
+    "data" :
+    {
+        "event" : "replaced",
+        "execution_id" : "5a9d3fcd-3ea2-46e9-ae80-646e0125b8ba",
+        "order" :
+        {
+            "asset_class" : "us_equity",
+            "asset_id" : "5b68ccda-566b-4a61-9ba8-cd51a51581e4",
+            "canceled_at" : null,
+            "client_order_id" : "a9121743-27d1-46b7-b0fa-e94ebae6dbc8",
+            "created_at" : "2021-06-25T14:34:16.628492Z",
+            "expired_at" : null,
+            "extended_hours" : true,
+            "failed_at" : null,
+            "filled_at" : null,
+            "filled_avg_price" : null,
+            "filled_qty" : "0",
+            "hwm" : null,
+            "id" : "a287bb44-1d75-436b-bb4c-77a982a48816",
+            "legs" : null,
+            "limit_price" : "46.49",
+            "notional" : null,
+            "order_class" : "",
+            "order_type" : "limit",
+            "qty" : "189",
+            "replaced_at" : "2021-06-25T14:42:18.18252Z",
+            "replaced_by" : "1d958beb-9133-416b-b56b-bdae8842a406",
+            "replaces" : "618de346-27a8-4513-a51a-55e796cd8ab8",
+            "side" : "buy",
+            "status" : "replaced",
+            "stop_price" : null,
+            "submitted_at" : "2021-06-25T14:42:10.337805Z",
+            "symbol" : "CWEB",
+            "time_in_force" : "day",
+            "trail_percent" : null,
+            "trail_price" : null,
+            "type" : "limit",
+            "updated_at" : "2021-06-25T14:42:18.227853Z"
+        },
+        "timestamp" : "2021-06-25T14:42:18.182520657Z"
+    },
+    "stream" : "trade_updates"
+}
+httpCode = 403
+10:42:18 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset ARKK cannot be sold short"}
+10:42:18 No active buy order
+10:42:18 No active sell order
+10:42:18 Alpaca to placed a new order: sell AMC 18-18(54.14), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"54.14","qty":"18","side":"sell","symbol":"AMC","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:18 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset AMC cannot be sold short"}
+10:42:18 No active buy order
+10:42:18 No active sell order
+10:42:18 Alpaca confirms order a287bb44-1d75-436b-bb4c-77a982a48816 is cancelled
+10:42:18 Alpaca confirms a new order: 1d958beb-9133-416b-b56b-bdae8842a406, buy CWEB 46.5 189(189)status: new
+10:42:18 Order ee2d75a0-b2c4-408e-94d9-a66c175cd10f buy RCL is guess filled, because buy order price 87.53 >= lastPrice 87.52
+request: https://paper-api.alpaca.markets/v2/orders/ee2d75a0-b2c4-408e-94d9-a66c175cd10f
+10:42:18 Get order info, order ee2d75a0-b2c4-408e-94d9-a66c175cd10f is new
+10:42:18 Alpaca to placed a new order: sell SPXS 231-231(24.43), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"24.43","qty":"231","side":"sell","symbol":"SPXS","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:19 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset SPXS cannot be sold short"}
+10:42:19 No active buy order
+10:42:19 No active sell order
+10:42:19 Alpaca to placed a new order: sell ARKK 200-200(124.83), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"124.83","qty":"200","side":"sell","symbol":"ARKK","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:19 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset ARKK cannot be sold short"}
+10:42:19 No active buy order
+10:42:19 No active sell order
+10:42:19 Alpaca to placed a new order: sell AMC 18-18(54.14), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"54.14","qty":"18","side":"sell","symbol":"AMC","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:19 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset AMC cannot be sold short"}
+10:42:19 No active buy order
+10:42:19 No active sell order
+10:42:19 Alpaca to placed a new order: sell SPXS 231-231(24.43), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"24.43","qty":"231","side":"sell","symbol":"SPXS","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:20 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset SPXS cannot be sold short"}
+10:42:20 No active buy order
+10:42:20 No active sell order
+10:42:20 Alpaca to placed a new order: sell ARKK 200-200(124.82), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"124.82","qty":"200","side":"sell","symbol":"ARKK","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:20 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset ARKK cannot be sold short"}
+10:42:20 No active buy order
+10:42:20 No active sell order
+10:42:20 Alpaca to placed a new order: sell AMC 18-18(54.13), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"54.13","qty":"18","side":"sell","symbol":"AMC","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:20 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset AMC cannot be sold short"}
+10:42:20 No active buy order
+10:42:20 No active sell order
+10:42:20 Alpaca to placed a new order: sell SPXS 231-231(24.43), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"24.43","qty":"231","side":"sell","symbol":"SPXS","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:20 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset SPXS cannot be sold short"}
+10:42:20 No active buy order
+10:42:20 No active sell order
+10:42:20 Alpaca to placed a new order: sell ARKK 200-200(124.82), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"124.82","qty":"200","side":"sell","symbol":"ARKK","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:20 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset ARKK cannot be sold short"}
+10:42:20 No active buy order
+10:42:20 No active sell order
+10:42:20 Alpaca to placed a new order: sell AMC 18-18(54.09), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"54.09","qty":"18","side":"sell","symbol":"AMC","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:21 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset AMC cannot be sold short"}
+10:42:21 No active buy order
+10:42:21 No active sell order
+10:42:21 Alpaca to placed a new order: sell SPXS 231-231(24.43), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"24.43","qty":"231","side":"sell","symbol":"SPXS","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:21 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset SPXS cannot be sold short"}
+10:42:21 No active buy order
+10:42:21 No active sell order
+10:42:21 Alpaca to placed a new order: sell ARKK 200-200(124.82), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"124.82","qty":"200","side":"sell","symbol":"ARKK","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:21 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset ARKK cannot be sold short"}
+10:42:21 No active buy order
+10:42:21 No active sell order
+10:42:21 Alpaca to placed a new order: sell AMC 18-18(54.09), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"54.09","qty":"18","side":"sell","symbol":"AMC","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:22 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset AMC cannot be sold short"}
+10:42:22 No active buy order
+10:42:22 No active sell order
+10:42:22 Alpaca to placed a new order: sell SPXS 231-231(24.43), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"24.43","qty":"231","side":"sell","symbol":"SPXS","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:22 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset SPXS cannot be sold short"}
+10:42:22 No active buy order
+10:42:22 No active sell order
+10:42:22 Alpaca to placed a new order: sell ARKK 200-200(124.83), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"124.83","qty":"200","side":"sell","symbol":"ARKK","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:23 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset ARKK cannot be sold short"}
+10:42:23 No active buy order
+10:42:23 No active sell order
+10:42:23 Alpaca to placed a new order: sell AMC 18-18(54.05), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"54.05","qty":"18","side":"sell","symbol":"AMC","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:23 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset AMC cannot be sold short"}
+10:42:23 No active buy order
+10:42:23 No active sell order
+10:42:23 Alpaca to placed a new order: sell SPXS 231-231(24.43), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"24.43","qty":"231","side":"sell","symbol":"SPXS","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:23 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset SPXS cannot be sold short"}
+10:42:23 No active buy order
+10:42:23 No active sell order
+10:42:23 Alpaca to placed a new order: sell ARKK 200-200(124.83), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"124.83","qty":"200","side":"sell","symbol":"ARKK","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:23 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset ARKK cannot be sold short"}
+10:42:23 No active buy order
+10:42:23 No active sell order
+10:42:23 Alpaca to placed a new order: sell AMC 18-18(54.05), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"54.05","qty":"18","side":"sell","symbol":"AMC","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:24 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset AMC cannot be sold short"}
+10:42:24 No active buy order
+10:42:24 No active sell order
+10:42:24 Alpaca to placed a new order: sell SPXS 231-231(24.43), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"24.43","qty":"231","side":"sell","symbol":"SPXS","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:24 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset SPXS cannot be sold short"}
+10:42:24 No active buy order
+10:42:24 No active sell order
+10:42:24 Alpaca to placed a new order: sell ARKK 200-200(124.82), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"124.82","qty":"200","side":"sell","symbol":"ARKK","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:24 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset ARKK cannot be sold short"}
+10:42:24 No active buy order
+10:42:24 No active sell order
+10:42:24 Alpaca to placed a new order: sell AMC 18-18(54.05), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"54.05","qty":"18","side":"sell","symbol":"AMC","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:24 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset AMC cannot be sold short"}
+10:42:24 No active buy order
+10:42:24 No active sell order
+10:42:24 Alpaca to placed a new order: sell SPXS 231-231(24.43), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"24.43","qty":"231","side":"sell","symbol":"SPXS","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:25 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset SPXS cannot be sold short"}
+10:42:25 No active buy order
+10:42:25 No active sell order
+10:42:25 Alpaca to placed a new order: sell ARKK 200-200(124.83), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"124.83","qty":"200","side":"sell","symbol":"ARKK","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:25 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset ARKK cannot be sold short"}
+10:42:25 No active buy order
+10:42:25 No active sell order
+10:42:25 Alpaca to placed a new order: sell AMC 18-18(54.05), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"54.05","qty":"18","side":"sell","symbol":"AMC","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:25 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset AMC cannot be sold short"}
+10:42:25 No active buy order
+10:42:25 No active sell order
+10:42:25 Alpaca to placed a new order: sell SPXS 231-231(24.43), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"24.43","qty":"231","side":"sell","symbol":"SPXS","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:25 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset SPXS cannot be sold short"}
+10:42:25 No active buy order
+10:42:25 No active sell order
+10:42:25 Alpaca to placed a new order: sell ARKK 200-200(124.83), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"124.83","qty":"200","side":"sell","symbol":"ARKK","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:25 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset ARKK cannot be sold short"}
+10:42:25 No active buy order
+10:42:25 No active sell order
+10:42:25 Alpaca to placed a new order: sell AMC 18-18(54.05), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"54.05","qty":"18","side":"sell","symbol":"AMC","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:26 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset AMC cannot be sold short"}
+10:42:26 No active buy order
+10:42:26 No active sell order
+10:42:26 Alpaca to placed a new order: sell SPXS 231-231(24.43), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"24.43","qty":"231","side":"sell","symbol":"SPXS","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:26 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset SPXS cannot be sold short"}
+10:42:26 No active buy order
+10:42:26 No active sell order
+10:42:26 Alpaca to placed a new order: sell ARKK 200-200(124.83), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"124.83","qty":"200","side":"sell","symbol":"ARKK","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:26 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset ARKK cannot be sold short"}
+10:42:26 No active buy order
+10:42:26 No active sell order
+10:42:26 Alpaca to placed a new order: sell AMC 18-18(54.07), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"54.07","qty":"18","side":"sell","symbol":"AMC","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:26 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset AMC cannot be sold short"}
+10:42:26 No active buy order
+10:42:26 No active sell order
+10:42:27 Alpaca to placed a new order: sell SPXS 231-231(24.43), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"24.43","qty":"231","side":"sell","symbol":"SPXS","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:27 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset SPXS cannot be sold short"}
+10:42:27 No active buy order
+10:42:27 No active sell order
+10:42:27 Alpaca to placed a new order: sell ARKK 200-200(124.83), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"124.83","qty":"200","side":"sell","symbol":"ARKK","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:27 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset ARKK cannot be sold short"}
+10:42:27 No active buy order
+10:42:27 No active sell order
+10:42:27 Alpaca to placed a new order: sell AMC 18-18(54.09), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"54.09","qty":"18","side":"sell","symbol":"AMC","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:27 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset AMC cannot be sold short"}
+10:42:27 No active buy order
+10:42:27 No active sell order
+10:42:27 Alpaca to placed a new order: sell SPXS 231-231(24.43), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"24.43","qty":"231","side":"sell","symbol":"SPXS","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:27 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset SPXS cannot be sold short"}
+10:42:27 No active buy order
+10:42:27 No active sell order
+10:42:27 Alpaca to placed a new order: sell ARKK 200-200(124.82), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"124.82","qty":"200","side":"sell","symbol":"ARKK","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:28 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset ARKK cannot be sold short"}
+10:42:28 No active buy order
+10:42:28 No active sell order
+10:42:28 Alpaca to placed a new order: sell AMC 18-18(54.08), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"54.08","qty":"18","side":"sell","symbol":"AMC","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:28 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset AMC cannot be sold short"}
+10:42:28 No active buy order
+10:42:28 No active sell order
+10:42:28 Order ee2d75a0-b2c4-408e-94d9-a66c175cd10f buy RCL is guess filled, because buy order price 87.53 >= lastPrice 87.52
+request: https://paper-api.alpaca.markets/v2/orders/ee2d75a0-b2c4-408e-94d9-a66c175cd10f
+10:42:28 Get order info, order ee2d75a0-b2c4-408e-94d9-a66c175cd10f is new
+10:42:28 Alpaca to placed a new order: sell SPXS 231-231(24.43), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"24.43","qty":"231","side":"sell","symbol":"SPXS","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:28 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset SPXS cannot be sold short"}
+10:42:28 No active buy order
+10:42:28 No active sell order
+10:42:28 Alpaca to placed a new order: sell ARKK 200-200(124.84), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"124.84","qty":"200","side":"sell","symbol":"ARKK","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:29 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset ARKK cannot be sold short"}
+10:42:29 No active buy order
+10:42:29 No active sell order
+10:42:29 Alpaca to placed a new order: sell AMC 18-18(54.08), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"54.08","qty":"18","side":"sell","symbol":"AMC","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:29 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset AMC cannot be sold short"}
+10:42:29 No active buy order
+10:42:29 No active sell order
+10:42:29 Alpaca to placed a new order: sell SPXS 231-231(24.43), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"24.43","qty":"231","side":"sell","symbol":"SPXS","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:29 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset SPXS cannot be sold short"}
+10:42:29 No active buy order
+10:42:29 No active sell order
+10:42:29 Alpaca to placed a new order: sell ARKK 200-200(124.85), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"124.85","qty":"200","side":"sell","symbol":"ARKK","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:29 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset ARKK cannot be sold short"}
+10:42:29 No active buy order
+10:42:29 No active sell order
+10:42:29 Alpaca to placed a new order: sell AMC 18-18(54.09), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"54.09","qty":"18","side":"sell","symbol":"AMC","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:29 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset AMC cannot be sold short"}
+10:42:29 No active buy order
+10:42:29 No active sell order
+10:42:30 Alpaca to placed a new order: sell SPXS 231-231(24.43), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"24.43","qty":"231","side":"sell","symbol":"SPXS","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:30 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset SPXS cannot be sold short"}
+10:42:30 No active buy order
+10:42:30 No active sell order
+10:42:30 Alpaca to placed a new order: sell ARKK 200-200(124.87), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"124.87","qty":"200","side":"sell","symbol":"ARKK","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:30 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset ARKK cannot be sold short"}
+10:42:30 No active buy order
+10:42:30 No active sell order
+10:42:30 Alpaca to placed a new order: sell AMC 18-18(54.07), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"54.07","qty":"18","side":"sell","symbol":"AMC","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:30 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset AMC cannot be sold short"}
+10:42:30 No active buy order
+10:42:30 No active sell order
+10:42:30 Alpaca to placed a new order: sell SPXS 231-231(24.43), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"24.43","qty":"231","side":"sell","symbol":"SPXS","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:31 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset SPXS cannot be sold short"}
+10:42:31 No active buy order
+10:42:31 No active sell order
+10:42:31 Alpaca to placed a new order: sell ARKK 200-200(124.9), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"124.9","qty":"200","side":"sell","symbol":"ARKK","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:31 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset ARKK cannot be sold short"}
+10:42:31 No active buy order
+10:42:31 No active sell order
+10:42:31 Alpaca to placed a new order: sell AMC 18-18(54.09), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"54.09","qty":"18","side":"sell","symbol":"AMC","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:31 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset AMC cannot be sold short"}
+10:42:31 No active buy order
+10:42:31 No active sell order
+10:42:31 Alpaca to placed a new order: sell SPXS 231-231(24.43), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"24.43","qty":"231","side":"sell","symbol":"SPXS","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:31 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset SPXS cannot be sold short"}
+10:42:31 No active buy order
+10:42:31 No active sell order
+10:42:31 Alpaca to placed a new order: sell ARKK 200-200(124.89), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"124.89","qty":"200","side":"sell","symbol":"ARKK","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:31 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset ARKK cannot be sold short"}
+10:42:31 No active buy order
+10:42:31 No active sell order
+10:42:31 Alpaca to placed a new order: sell AMC 18-18(54.09), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"54.09","qty":"18","side":"sell","symbol":"AMC","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:32 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset AMC cannot be sold short"}
+10:42:32 No active buy order
+10:42:32 No active sell order
+10:42:32 Alpaca to placed a new order: sell SPXS 231-231(24.43), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"24.43","qty":"231","side":"sell","symbol":"SPXS","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:32 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset SPXS cannot be sold short"}
+10:42:32 No active buy order
+10:42:32 No active sell order
+10:42:32 Alpaca to placed a new order: sell ARKK 200-200(124.89), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"124.89","qty":"200","side":"sell","symbol":"ARKK","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:32 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset ARKK cannot be sold short"}
+10:42:32 No active buy order
+10:42:32 No active sell order
+10:42:32 Alpaca to placed a new order: sell AMC 18-18(54.09), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"54.09","qty":"18","side":"sell","symbol":"AMC","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:32 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset AMC cannot be sold short"}
+10:42:32 No active buy order
+10:42:32 No active sell order
+10:42:33 Alpaca to placed a new order: sell SPXS 231-231(24.43), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"24.43","qty":"231","side":"sell","symbol":"SPXS","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:33 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset SPXS cannot be sold short"}
+10:42:33 No active buy order
+10:42:33 No active sell order
+10:42:33 Alpaca to placed a new order: sell ARKK 200-200(124.9), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"124.9","qty":"200","side":"sell","symbol":"ARKK","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:33 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset ARKK cannot be sold short"}
+10:42:33 No active buy order
+10:42:33 No active sell order
+10:42:33 Alpaca to placed a new order: sell AMC 18-18(54.08), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"54.08","qty":"18","side":"sell","symbol":"AMC","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:33 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset AMC cannot be sold short"}
+10:42:33 No active buy order
+10:42:33 No active sell order
+10:42:33 Order ee2d75a0-b2c4-408e-94d9-a66c175cd10f buy RCL is guess filled, because buy order price 87.53 >= lastPrice 87.53
+request: https://paper-api.alpaca.markets/v2/orders/ee2d75a0-b2c4-408e-94d9-a66c175cd10f
+10:42:33 Get order info, order ee2d75a0-b2c4-408e-94d9-a66c175cd10f is new
+10:42:33 Alpaca to placed a new order: sell SPXS 231-231(24.43), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"24.43","qty":"231","side":"sell","symbol":"SPXS","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:34 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset SPXS cannot be sold short"}
+10:42:34 No active buy order
+10:42:34 No active sell order
+10:42:34 Alpaca to placed a new order: sell ARKK 200-200(124.91), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"124.91","qty":"200","side":"sell","symbol":"ARKK","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:34 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset ARKK cannot be sold short"}
+10:42:34 No active buy order
+10:42:34 No active sell order
+10:42:34 Alpaca to placed a new order: sell AMC 18-18(54.08), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"54.08","qty":"18","side":"sell","symbol":"AMC","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:34 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset AMC cannot be sold short"}
+10:42:34 No active buy order
+10:42:34 No active sell order
+10:42:34 Order ee2d75a0-b2c4-408e-94d9-a66c175cd10f buy RCL is guess filled, because buy order price 87.53 >= lastPrice 87.52
+request: https://paper-api.alpaca.markets/v2/orders/ee2d75a0-b2c4-408e-94d9-a66c175cd10f
+10:42:34 Get order info, order ee2d75a0-b2c4-408e-94d9-a66c175cd10f is new
+10:42:34 Alpaca to placed a new order: sell SPXS 231-231(24.43), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"24.43","qty":"231","side":"sell","symbol":"SPXS","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:35 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset SPXS cannot be sold short"}
+10:42:35 No active buy order
+10:42:35 No active sell order
+10:42:35 Alpaca to placed a new order: sell ARKK 200-200(124.92), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"124.92","qty":"200","side":"sell","symbol":"ARKK","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:35 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset ARKK cannot be sold short"}
+10:42:35 No active buy order
+10:42:35 No active sell order
+10:42:35 Alpaca to placed a new order: sell AMC 18-18(54.09), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"54.09","qty":"18","side":"sell","symbol":"AMC","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:35 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset AMC cannot be sold short"}
+10:42:35 No active buy order
+10:42:35 No active sell order
+10:42:35 Alpaca Modifying order ee2d75a0-b2c4-408e-94d9-a66c175cd10f, buy RCL 286(87.53)status: new to buy286(87.52)
+replace_order
+request: https://paper-api.alpaca.markets/v2/orders/ee2d75a0-b2c4-408e-94d9-a66c175cd10f
+10:42:35 Alpaca Replaced order ee2d75a0-b2c4-408e-94d9-a66c175cd10f by order: 3ddb9c31-a962-4c54-bea4-2ea5c4224faf, buy RCL 286-286(87.52), curPosition=24660
+10:42:35 Alpaca End Modified order
+10:42:35 Current Active Buy Order is 3ddb9c31-a962-4c54-bea4-2ea5c4224faf buy RCL 286(87.52) new
+10:42:35 Current Active Sell Order is a9778e21-2b5c-4c95-98b2-6812f7e959a3 sell RCL 279(89.5) new
+10:42:35 Alpaca to placed a new order: sell SPXS 231-231(24.43), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"24.43","qty":"231","side":"sell","symbol":"SPXS","time_in_force":"day","type":"limit"}
+replaced events:
+{
+    "data" :
+    {
+        "event" : "replaced",
+        "execution_id" : "b4866f78-692f-49d3-bf12-87c152075d72",
+        "order" :
+        {
+            "asset_class" : "us_equity",
+            "asset_id" : "b4ef8484-77d0-42d9-97a5-d67948cbb979",
+            "canceled_at" : null,
+            "client_order_id" : "3fa34fb3-5ecd-4d8b-9ade-e10764634a2f",
+            "created_at" : "2021-06-25T14:42:13.494781Z",
+            "expired_at" : null,
+            "extended_hours" : true,
+            "failed_at" : null,
+            "filled_at" : null,
+            "filled_avg_price" : null,
+            "filled_qty" : "0",
+            "hwm" : null,
+            "id" : "ee2d75a0-b2c4-408e-94d9-a66c175cd10f",
+            "legs" : null,
+            "limit_price" : "87.53",
+            "notional" : null,
+            "order_class" : "",
+            "order_type" : "limit",
+            "qty" : "286",
+            "replaced_at" : "2021-06-25T14:42:36.100728Z",
+            "replaced_by" : "3ddb9c31-a962-4c54-bea4-2ea5c4224faf",
+            "replaces" : "5a80e904-0c52-4400-b38f-a3e449a06f52",
+            "side" : "buy",
+            "status" : "replaced",
+            "stop_price" : null,
+            "submitted_at" : "2021-06-25T14:42:14.524458Z",
+            "symbol" : "RCL",
+            "time_in_force" : "day",
+            "trail_percent" : null,
+            "trail_price" : null,
+            "type" : "limit",
+            "updated_at" : "2021-06-25T14:42:36.138582Z"
+        },
+        "timestamp" : "2021-06-25T14:42:36.100728645Z"
+    },
+    "stream" : "trade_updates"
+}
+httpCode = 403
+10:42:35 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset SPXS cannot be sold short"}
+10:42:35 No active buy order
+10:42:35 No active sell order
+10:42:35 Alpaca to placed a new order: sell ARKK 200-200(124.92), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"124.92","qty":"200","side":"sell","symbol":"ARKK","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:36 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset ARKK cannot be sold short"}
+10:42:36 No active buy order
+10:42:36 No active sell order
+10:42:36 Alpaca to placed a new order: sell AMC 18-18(54.1), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"54.1","qty":"18","side":"sell","symbol":"AMC","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:36 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset AMC cannot be sold short"}
+10:42:36 No active buy order
+10:42:36 No active sell order
+10:42:36 Alpaca confirms order ee2d75a0-b2c4-408e-94d9-a66c175cd10f is cancelled
+10:42:36 Alpaca confirms a new order: 3ddb9c31-a962-4c54-bea4-2ea5c4224faf, buy RCL 87.52 286(286)status: new
+10:42:36 Alpaca Modifying order 3ddb9c31-a962-4c54-bea4-2ea5c4224faf, buy RCL 286(87.52)status: new to buy286(87.53)
+replace_order
+request: https://paper-api.alpaca.markets/v2/orders/3ddb9c31-a962-4c54-bea4-2ea5c4224faf
+10:42:36 Alpaca Replaced order 3ddb9c31-a962-4c54-bea4-2ea5c4224faf by order: a3edc8b3-3628-4938-903b-2dbc10c542db, buy RCL 286-286(87.53), curPosition=24660
+10:42:36 Alpaca End Modified order
+10:42:36 Current Active Buy Order is a3edc8b3-3628-4938-903b-2dbc10c542db buy RCL 286(87.53) new
+10:42:36 Current Active Sell Order is a9778e21-2b5c-4c95-98b2-6812f7e959a3 sell RCL 279(89.5) new
+10:42:36 Alpaca to placed a new order: sell SPXS 231-231(24.43), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"24.43","qty":"231","side":"sell","symbol":"SPXS","time_in_force":"day","type":"limit"}
+replaced events:
+{
+    "data" :
+    {
+        "event" : "replaced",
+        "execution_id" : "3916ad72-9ec8-4672-92b3-e1e2c2c2a9da",
+        "order" :
+        {
+            "asset_class" : "us_equity",
+            "asset_id" : "b4ef8484-77d0-42d9-97a5-d67948cbb979",
+            "canceled_at" : null,
+            "client_order_id" : "20987c16-fdc0-4b7f-bd6d-1ab242793226",
+            "created_at" : "2021-06-25T14:42:13.494781Z",
+            "expired_at" : null,
+            "extended_hours" : true,
+            "failed_at" : null,
+            "filled_at" : null,
+            "filled_avg_price" : null,
+            "filled_qty" : "0",
+            "hwm" : null,
+            "id" : "3ddb9c31-a962-4c54-bea4-2ea5c4224faf",
+            "legs" : null,
+            "limit_price" : "87.52",
+            "notional" : null,
+            "order_class" : "",
+            "order_type" : "limit",
+            "qty" : "286",
+            "replaced_at" : "2021-06-25T14:42:37.05257Z",
+            "replaced_by" : "a3edc8b3-3628-4938-903b-2dbc10c542db",
+            "replaces" : "ee2d75a0-b2c4-408e-94d9-a66c175cd10f",
+            "side" : "buy",
+            "status" : "replaced",
+            "stop_price" : null,
+            "submitted_at" : "2021-06-25T14:42:36.084801Z",
+            "symbol" : "RCL",
+            "time_in_force" : "day",
+            "trail_percent" : null,
+            "trail_price" : null,
+            "type" : "limit",
+            "updated_at" : "2021-06-25T14:42:37.084911Z"
+        },
+        "timestamp" : "2021-06-25T14:42:37.052570964Z"
+    },
+    "stream" : "trade_updates"
+}
+httpCode = 403
+10:42:36 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset SPXS cannot be sold short"}
+10:42:36 No active buy order
+10:42:36 No active sell order
+10:42:36 Alpaca to placed a new order: sell ARKK 200-200(124.92), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"124.92","qty":"200","side":"sell","symbol":"ARKK","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:37 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset ARKK cannot be sold short"}
+10:42:37 No active buy order
+10:42:37 No active sell order
+10:42:37 Alpaca to placed a new order: sell AMC 18-18(54.13), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"54.13","qty":"18","side":"sell","symbol":"AMC","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:37 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset AMC cannot be sold short"}
+10:42:37 No active buy order
+10:42:37 No active sell order
+10:42:37 Alpaca confirms order 3ddb9c31-a962-4c54-bea4-2ea5c4224faf is cancelled
+10:42:37 Alpaca confirms a new order: a3edc8b3-3628-4938-903b-2dbc10c542db, buy RCL 87.53 286(286)status: new
+10:42:37 Alpaca Modifying order a3edc8b3-3628-4938-903b-2dbc10c542db, buy RCL 286(87.53)status: new to buy286(87.52)
+replace_order
+request: https://paper-api.alpaca.markets/v2/orders/a3edc8b3-3628-4938-903b-2dbc10c542db
+10:42:37 Alpaca Replaced order a3edc8b3-3628-4938-903b-2dbc10c542db by order: 5e62760b-626f-48f3-939a-1c6515c20eff, buy RCL 286-286(87.52), curPosition=24660
+10:42:37 Alpaca End Modified order
+10:42:37 Current Active Buy Order is 5e62760b-626f-48f3-939a-1c6515c20eff buy RCL 286(87.52) new
+10:42:37 Current Active Sell Order is a9778e21-2b5c-4c95-98b2-6812f7e959a3 sell RCL 279(89.5) new
+10:42:37 Alpaca to placed a new order: sell SPXS 231-231(24.43), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"24.43","qty":"231","side":"sell","symbol":"SPXS","time_in_force":"day","type":"limit"}
+replaced events:
+{
+    "data" :
+    {
+        "event" : "replaced",
+        "execution_id" : "ad05bc0d-d6e7-4adf-b6bd-af909067442c",
+        "order" :
+        {
+            "asset_class" : "us_equity",
+            "asset_id" : "b4ef8484-77d0-42d9-97a5-d67948cbb979",
+            "canceled_at" : null,
+            "client_order_id" : "6f993f1e-9909-4d89-9c14-6790482b12bb",
+            "created_at" : "2021-06-25T14:42:13.494781Z",
+            "expired_at" : null,
+            "extended_hours" : true,
+            "failed_at" : null,
+            "filled_at" : null,
+            "filled_avg_price" : null,
+            "filled_qty" : "0",
+            "hwm" : null,
+            "id" : "a3edc8b3-3628-4938-903b-2dbc10c542db",
+            "legs" : null,
+            "limit_price" : "87.53",
+            "notional" : null,
+            "order_class" : "",
+            "order_type" : "limit",
+            "qty" : "286",
+            "replaced_at" : "2021-06-25T14:42:37.997066Z",
+            "replaced_by" : "5e62760b-626f-48f3-939a-1c6515c20eff",
+            "replaces" : "3ddb9c31-a962-4c54-bea4-2ea5c4224faf",
+            "side" : "buy",
+            "status" : "replaced",
+            "stop_price" : null,
+            "submitted_at" : "2021-06-25T14:42:37.034139Z",
+            "symbol" : "RCL",
+            "time_in_force" : "day",
+            "trail_percent" : null,
+            "trail_price" : null,
+            "type" : "limit",
+            "updated_at" : "2021-06-25T14:42:38.036371Z"
+        },
+        "timestamp" : "2021-06-25T14:42:37.997066151Z"
+    },
+    "stream" : "trade_updates"
+}
+httpCode = 403
+10:42:38 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset SPXS cannot be sold short"}
+10:42:38 No active buy order
+10:42:38 No active sell order
+10:42:38 Alpaca to placed a new order: sell ARKK 200-200(124.92), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"124.92","qty":"200","side":"sell","symbol":"ARKK","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:38 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset ARKK cannot be sold short"}
+10:42:38 No active buy order
+10:42:38 No active sell order
+10:42:38 Alpaca to placed a new order: sell AMC 18-18(54.14), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"54.14","qty":"18","side":"sell","symbol":"AMC","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:38 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset AMC cannot be sold short"}
+10:42:38 No active buy order
+10:42:38 No active sell order
+10:42:38 Alpaca confirms order a3edc8b3-3628-4938-903b-2dbc10c542db is cancelled
+10:42:38 Alpaca confirms a new order: 5e62760b-626f-48f3-939a-1c6515c20eff, buy RCL 87.52 286(286)status: new
+10:42:38 Order 5e62760b-626f-48f3-939a-1c6515c20eff buy RCL is guess filled, because buy order price 87.52 >= lastPrice 87.52
+request: https://paper-api.alpaca.markets/v2/orders/5e62760b-626f-48f3-939a-1c6515c20eff
+10:42:38 Get order info, order 5e62760b-626f-48f3-939a-1c6515c20eff is new
+10:42:39 Alpaca to placed a new order: sell SPXS 231-231(24.43), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"24.43","qty":"231","side":"sell","symbol":"SPXS","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:39 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset SPXS cannot be sold short"}
+10:42:39 No active buy order
+10:42:39 No active sell order
+10:42:39 Alpaca Modifying order 1d958beb-9133-416b-b56b-bdae8842a406, buy CWEB 189(46.5)status: new to buy189(46.53)
+replace_order
+request: https://paper-api.alpaca.markets/v2/orders/1d958beb-9133-416b-b56b-bdae8842a406
+10:42:39 Alpaca Replaced order 1d958beb-9133-416b-b56b-bdae8842a406 by order: 98f8bc47-e9b7-40af-8615-33706169229b, buy CWEB 189-189(46.53), curPosition=0
+10:42:39 Alpaca End Modified order
+10:42:39 Current Active Buy Order is 98f8bc47-e9b7-40af-8615-33706169229b buy CWEB 189(46.53) new
+10:42:39 No active sell order
+10:42:39 Alpaca to placed a new order: sell ARKK 200-200(124.96), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"124.96","qty":"200","side":"sell","symbol":"ARKK","time_in_force":"day","type":"limit"}
+replaced events:
+{
+    "data" :
+    {
+        "event" : "replaced",
+        "execution_id" : "539c8e61-d7d9-4134-88d3-7f14eec7510d",
+        "order" :
+        {
+            "asset_class" : "us_equity",
+            "asset_id" : "5b68ccda-566b-4a61-9ba8-cd51a51581e4",
+            "canceled_at" : null,
+            "client_order_id" : "72d30fa5-5bbb-41de-92d8-1f7869b151eb",
+            "created_at" : "2021-06-25T14:34:16.628492Z",
+            "expired_at" : null,
+            "extended_hours" : true,
+            "failed_at" : null,
+            "filled_at" : null,
+            "filled_avg_price" : null,
+            "filled_qty" : "0",
+            "hwm" : null,
+            "id" : "1d958beb-9133-416b-b56b-bdae8842a406",
+            "legs" : null,
+            "limit_price" : "46.5",
+            "notional" : null,
+            "order_class" : "",
+            "order_type" : "limit",
+            "qty" : "189",
+            "replaced_at" : "2021-06-25T14:42:39.899715Z",
+            "replaced_by" : "98f8bc47-e9b7-40af-8615-33706169229b",
+            "replaces" : "a287bb44-1d75-436b-bb4c-77a982a48816",
+            "side" : "buy",
+            "status" : "replaced",
+            "stop_price" : null,
+            "submitted_at" : "2021-06-25T14:42:18.165609Z",
+            "symbol" : "CWEB",
+            "time_in_force" : "day",
+            "trail_percent" : null,
+            "trail_price" : null,
+            "type" : "limit",
+            "updated_at" : "2021-06-25T14:42:39.934364Z"
+        },
+        "timestamp" : "2021-06-25T14:42:39.899715578Z"
+    },
+    "stream" : "trade_updates"
+}
+httpCode = 403
+10:42:39 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset ARKK cannot be sold short"}
+10:42:39 No active buy order
+10:42:39 No active sell order
+10:42:39 Alpaca to placed a new order: sell AMC 18-18(54.12), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"54.12","qty":"18","side":"sell","symbol":"AMC","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:40 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset AMC cannot be sold short"}
+10:42:40 No active buy order
+10:42:40 No active sell order
+10:42:40 Alpaca confirms order 1d958beb-9133-416b-b56b-bdae8842a406 is cancelled
+10:42:40 Alpaca confirms a new order: 98f8bc47-e9b7-40af-8615-33706169229b, buy CWEB 46.53 189(189)status: new
+10:42:40 Alpaca Modifying order 5e62760b-626f-48f3-939a-1c6515c20eff, buy RCL 286(87.52)status: new to buy286(87.51)
+replace_order
+request: https://paper-api.alpaca.markets/v2/orders/5e62760b-626f-48f3-939a-1c6515c20eff
+10:42:40 Alpaca Replaced order 5e62760b-626f-48f3-939a-1c6515c20eff by order: 7cbc5ee2-bc81-46ab-bf89-a90cb7bddb47, buy RCL 286-286(87.51), curPosition=24660
+10:42:40 Alpaca End Modified order
+10:42:40 Current Active Buy Order is 7cbc5ee2-bc81-46ab-bf89-a90cb7bddb47 buy RCL 286(87.51) new
+10:42:40 Current Active Sell Order is a9778e21-2b5c-4c95-98b2-6812f7e959a3 sell RCL 279(89.5) new
+10:42:40 Alpaca to placed a new order: sell SPXS 231-231(24.43), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"24.43","qty":"231","side":"sell","symbol":"SPXS","time_in_force":"day","type":"limit"}
+{
+    "data" :
+    {
+        "event" : "partial_fill",
+        "execution_id" : "596cac86-f2fb-40f7-a81c-d7265db006c5",
+        "order" :
+        {
+            "asset_class" : "us_equity",
+            "asset_id" : "b4ef8484-77d0-42d9-97a5-d67948cbb979",
+            "canceled_at" : null,
+            "client_order_id" : "6ed433f2-7beb-4968-a4fc-305840edc1e6",
+            "created_at" : "2021-06-25T14:42:13.494781Z",
+            "expired_at" : null,
+            "extended_hours" : true,
+            "failed_at" : null,
+            "filled_at" : "2021-06-25T14:42:40.924853Z",
+            "filled_avg_price" : "87.52",
+            "filled_qty" : "263",
+            "hwm" : null,
+            "id" : "5e62760b-626f-48f3-939a-1c6515c20eff",
+            "legs" : null,
+            "limit_price" : "87.52",
+            "notional" : null,
+            "order_class" : "",
+            "order_type" : "limit",
+            "qty" : "286",
+            "replaced_at" : null,
+            "replaced_by" : "7cbc5ee2-bc81-46ab-bf89-a90cb7bddb47",
+            "replaces" : "a3edc8b3-3628-4938-903b-2dbc10c542db",
+            "side" : "buy",
+            "status" : "partially_filled",
+            "stop_price" : null,
+            "submitted_at" : "2021-06-25T14:42:37.980525Z",
+            "symbol" : "RCL",
+            "time_in_force" : "day",
+            "trail_percent" : null,
+            "trail_price" : null,
+            "type" : "limit",
+            "updated_at" : "2021-06-25T14:42:40.9618Z"
+        },
+        "position_qty" : "24923",
+        "price" : "87.52",
+        "qty" : "263",
+        "timestamp" : "2021-06-25T14:42:40.924853624Z"
+    },
+    "stream" : "trade_updates"
+}
+replaced events:
+{
+    "data" :
+    {
+        "event" : "replaced",
+        "execution_id" : "01577f10-d12d-4417-b1e7-9ec2d47e6c5a",
+        "order" :
+        {
+            "asset_class" : "us_equity",
+            "asset_id" : "b4ef8484-77d0-42d9-97a5-d67948cbb979",
+            "canceled_at" : null,
+            "client_order_id" : "6ed433f2-7beb-4968-a4fc-305840edc1e6",
+            "created_at" : "2021-06-25T14:42:13.494781Z",
+            "expired_at" : null,
+            "extended_hours" : true,
+            "failed_at" : null,
+            "filled_at" : "2021-06-25T14:42:40.924853Z",
+            "filled_avg_price" : "87.52",
+            "filled_qty" : "263",
+            "hwm" : null,
+            "id" : "5e62760b-626f-48f3-939a-1c6515c20eff",
+            "legs" : null,
+            "limit_price" : "87.52",
+            "notional" : null,
+            "order_class" : "",
+            "order_type" : "limit",
+            "qty" : "286",
+            "replaced_at" : "2021-06-25T14:42:40.944231Z",
+            "replaced_by" : "7cbc5ee2-bc81-46ab-bf89-a90cb7bddb47",
+            "replaces" : "a3edc8b3-3628-4938-903b-2dbc10c542db",
+            "side" : "buy",
+            "status" : "replaced",
+            "stop_price" : null,
+            "submitted_at" : "2021-06-25T14:42:37.980525Z",
+            "symbol" : "RCL",
+            "time_in_force" : "day",
+            "trail_percent" : null,
+            "trail_price" : null,
+            "type" : "limit",
+            "updated_at" : "2021-06-25T14:42:40.986213Z"
+        },
+        "timestamp" : "2021-06-25T14:42:40.944231392Z"
+    },
+    "stream" : "trade_updates"
+}
+httpCode = 403
+10:42:40 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset SPXS cannot be sold short"}
+10:42:40 No active buy order
+10:42:40 No active sell order
+10:42:40 Alpaca to placed a new order: sell ARKK 200-200(124.97), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"124.97","qty":"200","side":"sell","symbol":"ARKK","time_in_force":"day","type":"limit"}
+{
+    "data" :
+    {
+        "event" : "fill",
+        "execution_id" : "629cf426-28e3-4504-9944-4d6d3a5fcc21",
+        "order" :
+        {
+            "asset_class" : "us_equity",
+            "asset_id" : "b4ef8484-77d0-42d9-97a5-d67948cbb979",
+            "canceled_at" : null,
+            "client_order_id" : "787778a4-9622-4219-aeb1-c8e7aa749dcb",
+            "created_at" : "2021-06-25T14:42:13.494781Z",
+            "expired_at" : null,
+            "extended_hours" : true,
+            "failed_at" : null,
+            "filled_at" : "2021-06-25T14:42:41.0505Z",
+            "filled_avg_price" : "87.51",
+            "filled_qty" : "286",
+            "hwm" : null,
+            "id" : "7cbc5ee2-bc81-46ab-bf89-a90cb7bddb47",
+            "legs" : null,
+            "limit_price" : "87.51",
+            "notional" : null,
+            "order_class" : "",
+            "order_type" : "limit",
+            "qty" : "286",
+            "replaced_at" : null,
+            "replaced_by" : null,
+            "replaces" : "5e62760b-626f-48f3-939a-1c6515c20eff",
+            "side" : "buy",
+            "status" : "filled",
+            "stop_price" : null,
+            "submitted_at" : "2021-06-25T14:42:40.928537Z",
+            "symbol" : "RCL",
+            "time_in_force" : "day",
+            "trail_percent" : null,
+            "trail_price" : null,
+            "type" : "limit",
+            "updated_at" : "2021-06-25T14:42:41.131886Z"
+        },
+        "position_qty" : "25209",
+        "price" : "87.51",
+        "qty" : "286",
+        "timestamp" : "2021-06-25T14:42:41.050500941Z"
+    },
+    "stream" : "trade_updates"
+}
+httpCode = 403
+10:42:41 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset ARKK cannot be sold short"}
+10:42:41 No active buy order
+10:42:41 No active sell order
+10:42:41 Alpaca to placed a new order: sell AMC 18-18(54.12), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"54.12","qty":"18","side":"sell","symbol":"AMC","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:41 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset AMC cannot be sold short"}
+10:42:41 No active buy order
+10:42:41 No active sell order
+10:42:41 Alpaca find a partial fill
+10:42:41 REDMSG Because the parent order 5e62760b-626f-48f3-939a-1c6515c20eff partial fill 263, make child order 7cbc5ee2-bc81-46ab-bf89-a90cb7bddb47 qnty 286 to be partially filled.
+10:42:41 Alpaca Order partially filled 5e62760b-626f-48f3-939a-1c6515c20eff: buy RCL 263 of 286(87.52)
+10:42:41 Alpaca Updated an Partially Filled Order: 5e62760b-626f-48f3-939a-1c6515c20eff, buy RCL286(87.52)from pending_cancel
+10:42:41  to pending_cancel
+10:42:41 total profit 0.17312
+10:42:41 update RCL postion from 24660 to 10:42:41 24923
+replace_order
+request: https://paper-api.alpaca.markets/v2/orders/5e62760b-626f-48f3-939a-1c6515c20eff
+httpCode = 422
+10:42:41 REDMSG replaceOrder ErrorMsg:{"code":40010001,"message":"unable to replace order, order is already replaced"}
+10:42:41 Can not replace the order 5e62760b-626f-48f3-939a-1c6515c20eff.
+10:42:41 Alpaca confirms order 5e62760b-626f-48f3-939a-1c6515c20eff is cancelled
+10:42:41 Alpaca confirms a new order: 7cbc5ee2-bc81-46ab-bf89-a90cb7bddb47, buy RCL 87.51 286(286)status: new
+10:42:41 Alpaca Order filled 7cbc5ee2-bc81-46ab-bf89-a90cb7bddb47: buy RCL 286 of 286(87.51)10:42:41 total profit 0.20477
+10:42:41 update RCL postion from 24923 to 10:42:41 25209
+10:42:41 Alpaca to placed a new order: sell RCL 286-286(87.54), curPosition=25209
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"87.54","qty":"286","side":"sell","symbol":"RCL","time_in_force":"day","type":"limit"}
+10:42:41 Alpaca Placed a new order: d9bcf82b-de00-4bc9-b197-1e5b2d26b8e0, sell RCL 286-286(87.54), curPosition=25209
+{
+    "data" :
+    {
+        "event" : "new",
+        "execution_id" : "d7318b2e-fa7a-48e5-9f96-c4012494e13e",
+        "order" :
+        {
+            "asset_class" : "us_equity",
+            "asset_id" : "b4ef8484-77d0-42d9-97a5-d67948cbb979",
+            "canceled_at" : null,
+            "client_order_id" : "97102f10-c19f-49cf-b870-036af9dc08ae",
+            "created_at" : "2021-06-25T14:42:42.115958Z",
+            "expired_at" : null,
+            "extended_hours" : true,
+            "failed_at" : null,
+            "filled_at" : null,
+            "filled_avg_price" : null,
+            "filled_qty" : "0",
+            "hwm" : null,
+            "id" : "d9bcf82b-de00-4bc9-b197-1e5b2d26b8e0",
+            "legs" : null,
+            "limit_price" : "87.54",
+            "notional" : null,
+            "order_class" : "",
+            "order_type" : "limit",
+            "qty" : "286",
+            "replaced_at" : null,
+            "replaced_by" : null,
+            "replaces" : null,
+            "side" : "sell",
+            "status" : "new",
+            "stop_price" : null,
+            "submitted_at" : "2021-06-25T14:42:42.105507Z",
+            "symbol" : "RCL",
+            "time_in_force" : "day",
+            "trail_percent" : null,
+            "trail_price" : null,
+            "type" : "limit",
+            "updated_at" : "2021-06-25T14:42:42.207872Z"
+        }
+    },
+    "stream" : "trade_updates"
+}
+10:42:42 Alpaca confirms a new order: d9bcf82b-de00-4bc9-b197-1e5b2d26b8e0, sell RCL 87.54 286(286)status: new
+10:42:42 Extra Selling order to be cancelled
+Alpaca Cancel Order ID: d9bcf82b-de00-4bc9-b197-1e5b2d26b8e0
+request: https://paper-api.alpaca.markets/v2/orders/d9bcf82b-de00-4bc9-b197-1e5b2d26b8e0
+httpCode = 204
+10:42:42 REDMSG Alpaca Cancel Order Error
+10:42:42 REDMSG cancelOrder ErrorMsg:
+10:42:42 Alpaca to placed a new order: buy RCL 286-286(87.49), curPosition=25209
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"87.49","qty":"286","side":"buy","symbol":"RCL","time_in_force":"day","type":"limit"}
+{
+    "data" :
+    {
+        "event" : "canceled",
+        "execution_id" : "2a00e995-d6fc-4720-87d5-e45709f4bb7f",
+        "order" :
+        {
+            "asset_class" : "us_equity",
+            "asset_id" : "b4ef8484-77d0-42d9-97a5-d67948cbb979",
+            "canceled_at" : "2021-06-25T14:42:42.585979Z",
+            "client_order_id" : "97102f10-c19f-49cf-b870-036af9dc08ae",
+            "created_at" : "2021-06-25T14:42:42.115958Z",
+            "expired_at" : null,
+            "extended_hours" : true,
+            "failed_at" : null,
+            "filled_at" : null,
+            "filled_avg_price" : null,
+            "filled_qty" : "0",
+            "hwm" : null,
+            "id" : "d9bcf82b-de00-4bc9-b197-1e5b2d26b8e0",
+            "legs" : null,
+            "limit_price" : "87.54",
+            "notional" : null,
+            "order_class" : "",
+            "order_type" : "limit",
+            "qty" : "286",
+            "replaced_at" : null,
+            "replaced_by" : null,
+            "replaces" : null,
+            "side" : "sell",
+            "status" : "canceled",
+            "stop_price" : null,
+            "submitted_at" : "2021-06-25T14:42:42.105507Z",
+            "symbol" : "RCL",
+            "time_in_force" : "day",
+            "trail_percent" : null,
+            "trail_price" : null,
+            "type" : "limit",
+            "updated_at" : "2021-06-25T14:42:42.627141Z"
+        },
+        "timestamp" : "2021-06-25T14:42:42.585979223Z"
+    },
+    "stream" : "trade_updates"
+}
+10:42:42 Alpaca Placed a new order: e1668d1f-984b-41ab-ac8f-62ef92cd1e4b, buy RCL 286-286(87.49), curPosition=25209
+10:42:42 Current Active Buy Order is e1668d1f-984b-41ab-ac8f-62ef92cd1e4b buy RCL 286(87.49) new
+10:42:42 Current Active Sell Order is a9778e21-2b5c-4c95-98b2-6812f7e959a3 sell RCL 279(89.5) new
+10:42:42 Alpaca to placed a new order: sell SPXS 231-231(24.43), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"24.43","qty":"231","side":"sell","symbol":"SPXS","time_in_force":"day","type":"limit"}
+{
+    "data" :
+    {
+        "event" : "new",
+        "execution_id" : "5e8574b9-b1cb-4cfd-b65f-06fb722cd3ea",
+        "order" :
+        {
+            "asset_class" : "us_equity",
+            "asset_id" : "b4ef8484-77d0-42d9-97a5-d67948cbb979",
+            "canceled_at" : null,
+            "client_order_id" : "f6ccea7d-cd50-4164-8848-b7d4a015deb4",
+            "created_at" : "2021-06-25T14:42:42.772568Z",
+            "expired_at" : null,
+            "extended_hours" : true,
+            "failed_at" : null,
+            "filled_at" : null,
+            "filled_avg_price" : null,
+            "filled_qty" : "0",
+            "hwm" : null,
+            "id" : "e1668d1f-984b-41ab-ac8f-62ef92cd1e4b",
+            "legs" : null,
+            "limit_price" : "87.49",
+            "notional" : null,
+            "order_class" : "",
+            "order_type" : "limit",
+            "qty" : "286",
+            "replaced_at" : null,
+            "replaced_by" : null,
+            "replaces" : null,
+            "side" : "buy",
+            "status" : "new",
+            "stop_price" : null,
+            "submitted_at" : "2021-06-25T14:42:42.744893Z",
+            "symbol" : "RCL",
+            "time_in_force" : "day",
+            "trail_percent" : null,
+            "trail_price" : null,
+            "type" : "limit",
+            "updated_at" : "2021-06-25T14:42:42.828826Z"
+        }
+    },
+    "stream" : "trade_updates"
+}
+httpCode = 403
+10:42:42 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset SPXS cannot be sold short"}
+10:42:42 No active buy order
+10:42:42 No active sell order
+10:42:42 Alpaca to placed a new order: sell ARKK 200-200(124.96), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"124.96","qty":"200","side":"sell","symbol":"ARKK","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:43 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset ARKK cannot be sold short"}
+10:42:43 No active buy order
+10:42:43 No active sell order
+10:42:43 Alpaca to placed a new order: sell AMC 18-18(54.11), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"54.11","qty":"18","side":"sell","symbol":"AMC","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:43 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset AMC cannot be sold short"}
+10:42:43 No active buy order
+10:42:43 No active sell order
+10:42:43 Alpaca confirms order d9bcf82b-de00-4bc9-b197-1e5b2d26b8e0 is cancelled
+10:42:43 Alpaca confirms a new order: e1668d1f-984b-41ab-ac8f-62ef92cd1e4b, buy RCL 87.49 286(286)status: new
+10:42:43 Alpaca to placed a new order: sell SPXS 231-231(24.43), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"24.43","qty":"231","side":"sell","symbol":"SPXS","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:43 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset SPXS cannot be sold short"}
+10:42:43 No active buy order
+10:42:43 No active sell order
+10:42:43 Alpaca to placed a new order: sell ARKK 200-200(124.97), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"124.97","qty":"200","side":"sell","symbol":"ARKK","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:43 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset ARKK cannot be sold short"}
+10:42:43 No active buy order
+10:42:43 No active sell order
+10:42:43 Alpaca to placed a new order: sell AMC 18-18(54.11), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"54.11","qty":"18","side":"sell","symbol":"AMC","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:44 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset AMC cannot be sold short"}
+10:42:44 No active buy order
+10:42:44 No active sell order
+10:42:44 Alpaca to placed a new order: sell SPXS 231-231(24.43), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"24.43","qty":"231","side":"sell","symbol":"SPXS","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:44 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset SPXS cannot be sold short"}
+10:42:44 No active buy order
+10:42:44 No active sell order
+10:42:44 Alpaca to placed a new order: sell ARKK 200-200(124.97), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"124.97","qty":"200","side":"sell","symbol":"ARKK","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:44 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset ARKK cannot be sold short"}
+10:42:44 No active buy order
+10:42:44 No active sell order
+10:42:44 Alpaca to placed a new order: sell AMC 18-18(54.09), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"54.09","qty":"18","side":"sell","symbol":"AMC","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:44 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset AMC cannot be sold short"}
+10:42:44 No active buy order
+10:42:44 No active sell order
+{
+    "data" :
+    {
+        "event" : "fill",
+        "execution_id" : "2490961e-3ee6-4251-9121-873146e4917b",
+        "order" :
+        {
+            "asset_class" : "us_equity",
+            "asset_id" : "b4ef8484-77d0-42d9-97a5-d67948cbb979",
+            "canceled_at" : null,
+            "client_order_id" : "f6ccea7d-cd50-4164-8848-b7d4a015deb4",
+            "created_at" : "2021-06-25T14:42:42.772568Z",
+            "expired_at" : null,
+            "extended_hours" : true,
+            "failed_at" : null,
+            "filled_at" : "2021-06-25T14:42:45.183856Z",
+            "filled_avg_price" : "87.48",
+            "filled_qty" : "286",
+            "hwm" : null,
+            "id" : "e1668d1f-984b-41ab-ac8f-62ef92cd1e4b",
+            "legs" : null,
+            "limit_price" : "87.49",
+            "notional" : null,
+            "order_class" : "",
+            "order_type" : "limit",
+            "qty" : "286",
+            "replaced_at" : null,
+            "replaced_by" : null,
+            "replaces" : null,
+            "side" : "buy",
+            "status" : "filled",
+            "stop_price" : null,
+            "submitted_at" : "2021-06-25T14:42:42.744893Z",
+            "symbol" : "RCL",
+            "time_in_force" : "day",
+            "trail_percent" : null,
+            "trail_price" : null,
+            "type" : "limit",
+            "updated_at" : "2021-06-25T14:42:45.22317Z"
+        },
+        "position_qty" : "25495",
+        "price" : "87.48",
+        "qty" : "286",
+        "timestamp" : "2021-06-25T14:42:45.183856603Z"
+    },
+    "stream" : "trade_updates"
+}
+10:42:44 Order e1668d1f-984b-41ab-ac8f-62ef92cd1e4b buy RCL is guess filled, because buy order price 87.49 >= askPrice 87.48
+request: https://paper-api.alpaca.markets/v2/orders/e1668d1f-984b-41ab-ac8f-62ef92cd1e4b
+10:42:45 Getorderinfo, remaining position 286 get filled
+10:42:45 Order total profit 0.20466
+10:42:45 update RCL postion from 25209 to 10:42:45 25495
+10:42:45 Get order info, order e1668d1f-984b-41ab-ac8f-62ef92cd1e4b is filled
+10:42:45 Alpaca confirms a Filled order e1668d1f-984b-41ab-ac8f-62ef92cd1e4b is really filled
+10:42:45 Alpaca to placed a new order: sell RCL 286-286(87.48), curPosition=25495
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"87.48","qty":"286","side":"sell","symbol":"RCL","time_in_force":"day","type":"limit"}
+10:42:45 Alpaca Placed a new order: 665f00a1-b840-4a2a-81bb-6d6cdd3377f9, sell RCL 286-286(87.48), curPosition=25495
+10:42:45 Extra Selling order to be cancelled
+Alpaca Cancel Order ID: 665f00a1-b840-4a2a-81bb-6d6cdd3377f9
+request: https://paper-api.alpaca.markets/v2/orders/665f00a1-b840-4a2a-81bb-6d6cdd3377f9
+{
+    "data" :
+    {
+        "event" : "new",
+        "execution_id" : "c54adec9-2dab-4ab9-92a8-ea9782457c1d",
+        "order" :
+        {
+            "asset_class" : "us_equity",
+            "asset_id" : "b4ef8484-77d0-42d9-97a5-d67948cbb979",
+            "canceled_at" : null,
+            "client_order_id" : "b3fe0702-1f07-438b-a8a5-8c05ed2b6b49",
+            "created_at" : "2021-06-25T14:42:45.601529Z",
+            "expired_at" : null,
+            "extended_hours" : true,
+            "failed_at" : null,
+            "filled_at" : null,
+            "filled_avg_price" : null,
+            "filled_qty" : "0",
+            "hwm" : null,
+            "id" : "665f00a1-b840-4a2a-81bb-6d6cdd3377f9",
+            "legs" : null,
+            "limit_price" : "87.48",
+            "notional" : null,
+            "order_class" : "",
+            "order_type" : "limit",
+            "qty" : "286",
+            "replaced_at" : null,
+            "replaced_by" : null,
+            "replaces" : null,
+            "side" : "sell",
+            "status" : "new",
+            "stop_price" : null,
+            "submitted_at" : "2021-06-25T14:42:45.593863Z",
+            "symbol" : "RCL",
+            "time_in_force" : "day",
+            "trail_percent" : null,
+            "trail_price" : null,
+            "type" : "limit",
+            "updated_at" : "2021-06-25T14:42:45.656007Z"
+        }
+    },
+    "stream" : "trade_updates"
+}
+httpCode = 204
+10:42:45 REDMSG Alpaca Cancel Order Error
+10:42:45 REDMSG cancelOrder ErrorMsg:
+10:42:45 Alpaca to placed a new order: buy RCL 286-286(87.45), curPosition=25495
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"87.45","qty":"286","side":"buy","symbol":"RCL","time_in_force":"day","type":"limit"}
+{
+    "data" :
+    {
+        "event" : "canceled",
+        "execution_id" : "5181a137-f953-443f-ac22-6ac9f56820ee",
+        "order" :
+        {
+            "asset_class" : "us_equity",
+            "asset_id" : "b4ef8484-77d0-42d9-97a5-d67948cbb979",
+            "canceled_at" : "2021-06-25T14:42:45.784643Z",
+            "client_order_id" : "b3fe0702-1f07-438b-a8a5-8c05ed2b6b49",
+            "created_at" : "2021-06-25T14:42:45.601529Z",
+            "expired_at" : null,
+            "extended_hours" : true,
+            "failed_at" : null,
+            "filled_at" : null,
+            "filled_avg_price" : null,
+            "filled_qty" : "0",
+            "hwm" : null,
+            "id" : "665f00a1-b840-4a2a-81bb-6d6cdd3377f9",
+            "legs" : null,
+            "limit_price" : "87.48",
+            "notional" : null,
+            "order_class" : "",
+            "order_type" : "limit",
+            "qty" : "286",
+            "replaced_at" : null,
+            "replaced_by" : null,
+            "replaces" : null,
+            "side" : "sell",
+            "status" : "canceled",
+            "stop_price" : null,
+            "submitted_at" : "2021-06-25T14:42:45.593863Z",
+            "symbol" : "RCL",
+            "time_in_force" : "day",
+            "trail_percent" : null,
+            "trail_price" : null,
+            "type" : "limit",
+            "updated_at" : "2021-06-25T14:42:45.879127Z"
+        },
+        "timestamp" : "2021-06-25T14:42:45.78464391Z"
+    },
+    "stream" : "trade_updates"
+}
+10:42:45 Alpaca Placed a new order: 8144583a-6e53-4a5c-8189-33f576bd73c2, buy RCL 286-286(87.45), curPosition=25495
+10:42:45 Current Active Buy Order is 8144583a-6e53-4a5c-8189-33f576bd73c2 buy RCL 286(87.45) new
+10:42:45 Current Active Sell Order is a9778e21-2b5c-4c95-98b2-6812f7e959a3 sell RCL 279(89.5) new
+10:42:45 Alpaca to placed a new order: sell SPXS 231-231(24.43), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"24.43","qty":"231","side":"sell","symbol":"SPXS","time_in_force":"day","type":"limit"}
+{
+    "data" :
+    {
+        "event" : "new",
+        "execution_id" : "4a3559bc-b749-4034-bec6-6583486862a7",
+        "order" :
+        {
+            "asset_class" : "us_equity",
+            "asset_id" : "b4ef8484-77d0-42d9-97a5-d67948cbb979",
+            "canceled_at" : null,
+            "client_order_id" : "df2bf079-8af9-456e-a9fa-2feb1652dd17",
+            "created_at" : "2021-06-25T14:42:45.975575Z",
+            "expired_at" : null,
+            "extended_hours" : true,
+            "failed_at" : null,
+            "filled_at" : null,
+            "filled_avg_price" : null,
+            "filled_qty" : "0",
+            "hwm" : null,
+            "id" : "8144583a-6e53-4a5c-8189-33f576bd73c2",
+            "legs" : null,
+            "limit_price" : "87.45",
+            "notional" : null,
+            "order_class" : "",
+            "order_type" : "limit",
+            "qty" : "286",
+            "replaced_at" : null,
+            "replaced_by" : null,
+            "replaces" : null,
+            "side" : "buy",
+            "status" : "new",
+            "stop_price" : null,
+            "submitted_at" : "2021-06-25T14:42:45.943934Z",
+            "symbol" : "RCL",
+            "time_in_force" : "day",
+            "trail_percent" : null,
+            "trail_price" : null,
+            "type" : "limit",
+            "updated_at" : "2021-06-25T14:42:46.057578Z"
+        }
+    },
+    "stream" : "trade_updates"
+}
+httpCode = 403
+10:42:45 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset SPXS cannot be sold short"}
+10:42:45 No active buy order
+10:42:45 No active sell order
+10:42:45 Alpaca to placed a new order: sell ARKK 200-200(124.97), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"124.97","qty":"200","side":"sell","symbol":"ARKK","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:46 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset ARKK cannot be sold short"}
+10:42:46 No active buy order
+10:42:46 No active sell order
+10:42:46 Alpaca to placed a new order: sell AMC 18-18(54.09), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"54.09","qty":"18","side":"sell","symbol":"AMC","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:46 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset AMC cannot be sold short"}
+10:42:46 No active buy order
+10:42:46 No active sell order
+10:42:46 Alpaca confirms a new order: 665f00a1-b840-4a2a-81bb-6d6cdd3377f9, sell RCL 87.48 286(286)status: new
+10:42:46 Alpaca confirms order 665f00a1-b840-4a2a-81bb-6d6cdd3377f9 is cancelled
+10:42:46 Alpaca confirms a new order: 8144583a-6e53-4a5c-8189-33f576bd73c2, buy RCL 87.45 286(286)status: new
+10:42:46 Order 8144583a-6e53-4a5c-8189-33f576bd73c2 buy RCL is guess filled, because buy order price 87.45 >= lastPrice 87.45
+request: https://paper-api.alpaca.markets/v2/orders/8144583a-6e53-4a5c-8189-33f576bd73c2
+10:42:46 Get order info, order 8144583a-6e53-4a5c-8189-33f576bd73c2 is new
+10:42:46 Alpaca to placed a new order: sell SPXS 231-231(24.43), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"24.43","qty":"231","side":"sell","symbol":"SPXS","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:46 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset SPXS cannot be sold short"}
+10:42:46 No active buy order
+10:42:46 No active sell order
+10:42:46 Alpaca to placed a new order: sell ARKK 200-200(124.98), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"124.98","qty":"200","side":"sell","symbol":"ARKK","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:46 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset ARKK cannot be sold short"}
+10:42:46 No active buy order
+10:42:46 No active sell order
+10:42:46 Alpaca to placed a new order: sell AMC 18-18(54.09), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"54.09","qty":"18","side":"sell","symbol":"AMC","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:47 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset AMC cannot be sold short"}
+10:42:47 No active buy order
+10:42:47 No active sell order
+10:42:47 Alpaca to placed a new order: sell SPXS 231-231(24.43), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"24.43","qty":"231","side":"sell","symbol":"SPXS","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:47 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset SPXS cannot be sold short"}
+10:42:47 No active buy order
+10:42:47 No active sell order
+10:42:47 Alpaca Modifying order 98f8bc47-e9b7-40af-8615-33706169229b, buy CWEB 189(46.53)status: new to buy188(46.54)
+replace_order
+request: https://paper-api.alpaca.markets/v2/orders/98f8bc47-e9b7-40af-8615-33706169229b
+10:42:47 Alpaca Replaced order 98f8bc47-e9b7-40af-8615-33706169229b by order: aa4e7075-4e13-43ec-9305-62bc63f75872, buy CWEB 188-188(46.54), curPosition=0
+10:42:47 Alpaca End Modified order
+10:42:47 Current Active Buy Order is aa4e7075-4e13-43ec-9305-62bc63f75872 buy CWEB 188(46.54) new
+10:42:47 No active sell order
+10:42:47 Alpaca to placed a new order: sell ARKK 200-200(124.98), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"124.98","qty":"200","side":"sell","symbol":"ARKK","time_in_force":"day","type":"limit"}
+replaced events:
+{
+    "data" :
+    {
+        "event" : "replaced",
+        "execution_id" : "efca002a-ed7f-4512-bedd-85ad4df09a2a",
+        "order" :
+        {
+            "asset_class" : "us_equity",
+            "asset_id" : "5b68ccda-566b-4a61-9ba8-cd51a51581e4",
+            "canceled_at" : null,
+            "client_order_id" : "153e8d0c-6023-4e24-8fb4-bd540b4b6291",
+            "created_at" : "2021-06-25T14:34:16.628492Z",
+            "expired_at" : null,
+            "extended_hours" : true,
+            "failed_at" : null,
+            "filled_at" : null,
+            "filled_avg_price" : null,
+            "filled_qty" : "0",
+            "hwm" : null,
+            "id" : "98f8bc47-e9b7-40af-8615-33706169229b",
+            "legs" : null,
+            "limit_price" : "46.53",
+            "notional" : null,
+            "order_class" : "",
+            "order_type" : "limit",
+            "qty" : "189",
+            "replaced_at" : "2021-06-25T14:42:47.957322Z",
+            "replaced_by" : "aa4e7075-4e13-43ec-9305-62bc63f75872",
+            "replaces" : "1d958beb-9133-416b-b56b-bdae8842a406",
+            "side" : "buy",
+            "status" : "replaced",
+            "stop_price" : null,
+            "submitted_at" : "2021-06-25T14:42:39.881526Z",
+            "symbol" : "CWEB",
+            "time_in_force" : "day",
+            "trail_percent" : null,
+            "trail_price" : null,
+            "type" : "limit",
+            "updated_at" : "2021-06-25T14:42:47.995501Z"
+        },
+        "timestamp" : "2021-06-25T14:42:47.957322459Z"
+    },
+    "stream" : "trade_updates"
+}
+httpCode = 403
+10:42:47 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset ARKK cannot be sold short"}
+10:42:47 No active buy order
+10:42:47 No active sell order
+10:42:47 Alpaca to placed a new order: sell AMC 18-18(54.09), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"54.09","qty":"18","side":"sell","symbol":"AMC","time_in_force":"day","type":"limit"}
+httpCode = 403
+10:42:48 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset AMC cannot be sold short"}
+10:42:48 No active buy order
+10:42:48 No active sell order
+10:42:48 Alpaca confirms order 98f8bc47-e9b7-40af-8615-33706169229b is cancelled
+10:42:48 Alpaca confirms a new order: aa4e7075-4e13-43ec-9305-62bc63f75872, buy CWEB 46.54 188(188)status: new
+10:42:48 Alpaca Modifying order 8144583a-6e53-4a5c-8189-33f576bd73c2, buy RCL 286(87.45)status: new to buy286(87.44)
+replace_order
+request: https://paper-api.alpaca.markets/v2/orders/8144583a-6e53-4a5c-8189-33f576bd73c2
+10:42:48 Alpaca Replaced order 8144583a-6e53-4a5c-8189-33f576bd73c2 by order: 6429f806-f159-4c4b-9d23-2f8cf9de2940, buy RCL 286-286(87.44), curPosition=25495
+10:42:48 Alpaca End Modified order
+10:42:48 Current Active Buy Order is 6429f806-f159-4c4b-9d23-2f8cf9de2940 buy RCL 286(87.44) new
+10:42:48 Current Active Sell Order is a9778e21-2b5c-4c95-98b2-6812f7e959a3 sell RCL 279(89.5) new
+10:42:48 Alpaca to placed a new order: sell SPXS 231-231(24.43), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"24.43","qty":"231","side":"sell","symbol":"SPXS","time_in_force":"day","type":"limit"}
+replaced events:
+{
+    "data" :
+    {
+        "event" : "replaced",
+        "execution_id" : "b6305c90-6934-4b97-b3a1-d1bfd57e3ccd",
+        "order" :
+        {
+            "asset_class" : "us_equity",
+            "asset_id" : "b4ef8484-77d0-42d9-97a5-d67948cbb979",
+            "canceled_at" : null,
+            "client_order_id" : "df2bf079-8af9-456e-a9fa-2feb1652dd17",
+            "created_at" : "2021-06-25T14:42:45.975575Z",
+            "expired_at" : null,
+            "extended_hours" : true,
+            "failed_at" : null,
+            "filled_at" : null,
+            "filled_avg_price" : null,
+            "filled_qty" : "0",
+            "hwm" : null,
+            "id" : "8144583a-6e53-4a5c-8189-33f576bd73c2",
+            "legs" : null,
+            "limit_price" : "87.45",
+            "notional" : null,
+            "order_class" : "",
+            "order_type" : "limit",
+            "qty" : "286",
+            "replaced_at" : "2021-06-25T14:42:48.723025Z",
+            "replaced_by" : "6429f806-f159-4c4b-9d23-2f8cf9de2940",
+            "replaces" : null,
+            "side" : "buy",
+            "status" : "replaced",
+            "stop_price" : null,
+            "submitted_at" : "2021-06-25T14:42:45.943934Z",
+            "symbol" : "RCL",
+            "time_in_force" : "day",
+            "trail_percent" : null,
+            "trail_price" : null,
+            "type" : "limit",
+            "updated_at" : "2021-06-25T14:42:48.763247Z"
+        },
+        "timestamp" : "2021-06-25T14:42:48.723025762Z"
+    },
+    "stream" : "trade_updates"
+}
+httpCode = 403
+10:42:48 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset SPXS cannot be sold short"}
+10:42:48 No active buy order
+10:42:48 No active sell order
+10:42:48 Alpaca Modifying order aa4e7075-4e13-43ec-9305-62bc63f75872, buy CWEB 188(46.54)status: new to buy188(46.56)
+replace_order
+request: https://paper-api.alpaca.markets/v2/orders/aa4e7075-4e13-43ec-9305-62bc63f75872
+10:42:48 Alpaca Replaced order aa4e7075-4e13-43ec-9305-62bc63f75872 by order: ac8e1f45-d843-403b-9260-8f42baadd8d0, buy CWEB 188-188(46.56), curPosition=0
+10:42:48 Alpaca End Modified order
+10:42:48 Current Active Buy Order is ac8e1f45-d843-403b-9260-8f42baadd8d0 buy CWEB 188(46.56) new
+10:42:48 No active sell order
+10:42:48 Alpaca to placed a new order: sell ARKK 200-200(125.02), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"125.02","qty":"200","side":"sell","symbol":"ARKK","time_in_force":"day","type":"limit"}
+replaced events:
+{
+    "data" :
+    {
+        "event" : "replaced",
+        "execution_id" : "985e021e-c123-413c-bafb-0855a5f14b29",
+        "order" :
+        {
+            "asset_class" : "us_equity",
+            "asset_id" : "5b68ccda-566b-4a61-9ba8-cd51a51581e4",
+            "canceled_at" : null,
+            "client_order_id" : "b05f1a78-d4b7-4ba4-9e3b-5219b531aeca",
+            "created_at" : "2021-06-25T14:34:16.628492Z",
+            "expired_at" : null,
+            "extended_hours" : true,
+            "failed_at" : null,
+            "filled_at" : null,
+            "filled_avg_price" : null,
+            "filled_qty" : "0",
+            "hwm" : null,
+            "id" : "aa4e7075-4e13-43ec-9305-62bc63f75872",
+            "legs" : null,
+            "limit_price" : "46.54",
+            "notional" : null,
+            "order_class" : "",
+            "order_type" : "limit",
+            "qty" : "188",
+            "replaced_at" : "2021-06-25T14:42:49.095121Z",
+            "replaced_by" : "ac8e1f45-d843-403b-9260-8f42baadd8d0",
+            "replaces" : "98f8bc47-e9b7-40af-8615-33706169229b",
+            "side" : "buy",
+            "status" : "replaced",
+            "stop_price" : null,
+            "submitted_at" : "2021-06-25T14:42:47.942485Z",
+            "symbol" : "CWEB",
+            "time_in_force" : "day",
+            "trail_percent" : null,
+            "trail_price" : null,
+            "type" : "limit",
+            "updated_at" : "2021-06-25T14:42:49.138531Z"
+        },
+        "timestamp" : "2021-06-25T14:42:49.095121368Z"
+    },
+    "stream" : "trade_updates"
+}
+httpCode = 403
+10:42:48 REDMSG placeOrder ErrorMsg:{"code":40310000,"message":"asset ARKK cannot be sold short"}
+10:42:48 No active buy order
+10:42:48 No active sell order
+10:42:48 Alpaca to placed a new order: sell AMC 18-18(54.09), curPosition=0
+submit_order
+request: https://paper-api.alpaca.markets/v2/orders
+params: {"extended_hours":true,"limit_price":"54.09","qty":"18","side":"sell","symbol":"AMC","time_in_force":"day","type":"limit"}

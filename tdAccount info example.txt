@@ -1,0 +1,654 @@
+Shared memory exists. Just use it
+Start TD account of Roth-Wang...
+12:58:32 Account ID: 238227219
+StreamingSessionImpl                     1791540              296                  construct
+StreamingSessionImpl                     1791540              296                  primary account: 238227219
+StreamingSessionImpl                     1791540              296                  connect_timeout: 3000
+StreamingSessionImpl                     1791540              296                  listening_timeout: 30000
+StreamingSessionImpl                     1791540              296                  subscribe_timeout: 1500
+12:58:33 buySell = 0, 1
+12:58:33 ALL: m_canBuy = false, m_canSell = true
+12:58:33 JD:
+12:58:33 bottomPrice = 65, 65
+12:58:33 topPrice = 110, 110
+12:58:33 multiplier = 1.5, 1.5
+12:58:33 offset = 0, 0
+12:58:33 hedgeRatio  = 0
+12:58:33 buySell = 1, 1
+12:58:33 canBuy = true, canSell = true
+12:58:33 takenProfit = 2
+12:58:33 time=9:30, 13:30
+12:58:33 BILI:
+12:58:33 bottomPrice = 80, 80
+12:58:33 topPrice = 160, 160
+12:58:33 multiplier = 1.2, 1.2
+12:58:33 hedgeRatio  = 1
+12:58:33 buySell = 1, 1
+12:58:33 canBuy = true, canSell = true
+12:58:33 offset = 0, 0
+12:58:33 takenProfit = 2
+12:58:33 time=13:45, 14:0
+12:58:33 BABA:
+12:58:33 bottomPrice = 140, 140
+12:58:33 topPrice = 240, 240
+12:58:33 multiplier = 0.5, 0.5
+12:58:33 offset = 0, 0
+12:58:33 hedgeRatio  = 0
+12:58:33 buySell = 1, 1
+12:58:33 canBuy = true, canSell = true
+12:58:33 canShort = 1
+12:58:33 takenProfit = 2
+12:58:33 time=9:30, 13:30
+12:58:33 *********TD Ameritrade***********
+12:58:33 *********TD Ameritrade***********
+TD connection Attempt 1
+StreamingSessionImpl                     1791540              16952                start
+StreamingSessionImpl                     1791540              16952                check unique session
+StreamingSessionImpl                     1791540              16952                _client->reset
+WebSocket                                17baf98              16952                construct
+StreamingSessionImpl                     1791540              16952                _client->connect
+WebSocket                                17baf98              16952                connect
+WebSocket                                17baf98              16952                connect, move new _thread
+WebSocket                                17baf98              16952                connect, wait for callback notify
+WebSocket                                17baf98              13060                SocketThreadTarget IN
+WebSocket                                17baf98              13060                on_connect
+StreamingSessionImpl                     1791540              16952                login
+WebSocket                                17baf98              16952                send, _signal->send: {"requests":[{"account":"238227219","command":"LOGIN","parameters":{"credential":"userid%3D238227219%26token%3Dd875e274363ca9403da720ab85c2eeca56232f00%26company%3DAMER%26segment%3DAMER%26cddomain%3DA000000090876583%26usergroup%3DACCT%26accesslevel%3DACCT%26authorized%3DY%26acl%3DBPCVDRDTDWESF7G1G3G5G7GKGLH1H3H5LTM1MAOSPNQSRFSDTETFTOTTUAURXBXNXOD2D4D6D8E2E4E6E8F2F4F6H7I1%26timestamp%3D1635526713000%26appid%3Dfullheart","token":"d875e274363ca9403da720ab85c2eeca56232f00","version":"1.0"},"requestid":"0","service":"ADMIN","source":"fullheart"}]}
+WebSocket                                17baf98              13060                on_signal
+WebSocket                                17baf98              13060                on_signal, _ws->send: {"requests":[{"account":"238227219","command":"LOGIN","parameters":{"credential":"userid%3D238227219%26token%3Dd875e274363ca9403da720ab85c2eeca56232f00%26company%3DAMER%26segment%3DAMER%26cddomain%3DA000000090876583%26usergroup%3DACCT%26accesslevel%3DACCT%26authorized%3DY%26acl%3DBPCVDRDTDWESF7G1G3G5G7GKGLH1H3H5LTM1MAOSPNQSRFSDTETFTOTTUAURXBXNXOD2D4D6D8E2E4E6E8F2F4F6H7I1%26timestamp%3D1635526713000%26appid%3Dfullheart","token":"d875e274363ca9403da720ab85c2eeca56232f00","version":"1.0"},"requestid":"0","service":"ADMIN","source":"fullheart"}]}
+WebSocket                                17baf98              13060                on_message
+WebSocket                                17baf98              13060                message: {"response":[{"service":"ADMIN","requestid":"0","command":"LOGIN","timestamp":1635526715285,"content":{"code":0,"msg":"04-1"}}]}
+Unknown: {"code":0,"command ":"LOGIN","message":"04-1","request_id":"0"}
+StreamingSessionImpl                     1791540              16952                login success
+StreamingSessionImpl                     1791540              16952                start listener thread
+StreamingSessionImpl                     1791540              16952                join listener thread
+StreamingSessionImpl                     1791540              16952                move new listener thread
+StreamingSessionImpl                     1791540              13844                call back (listening_start)
+WebSocket                                17baf98              16952                send, _signal->send: {"requests":[{"account":"238227219","command":"SUBS","parameters":{"fields":"0,1,2,3","keys":"b787cd68798f0c59a7b15f5464cf8d5cf7e75b17bc00db4722dabb4f5dd01f53ba7341016de06afd6bc59b2fabae1ec2b"},"requestid":"1","service":"ACCT_ACTIVITY","source":"fullheart"}]}
+Unknown: null
+WebSocket                                17baf98              13060                on_signal
+StreamingSessionImpl                     1791540              13844                begin listening loop
+WebSocket                                17baf98              13060                on_signal, _ws->send: {"requests":[{"account":"238227219","command":"SUBS","parameters":{"fields":"0,1,2,3","keys":"b787cd68798f0c59a7b15f5464cf8d5cf7e75b17bc00db4722dabb4f5dd01f53ba7341016de06afd6bc59b2fabae1ec2b"},"requestid":"1","service":"ACCT_ACTIVITY","source":"fullheart"}]}
+WebSocket                                17baf98              13060                on_message
+WebSocket                                17baf98              13060                message: {"notify":[{"heartbeat":"1635526715399"}]}
+WebSocket                                17baf98              13060                on_message
+StreamingSessionImpl                     1791540              13844                notify: {"heartbeat":"1635526715399"}
+WebSocket                                17baf98              13060                message: {"response":[{"service":"ACCT_ACTIVITY","requestid":"1","command":"SUBS","timestamp":1635526715399,"content":{"code":0,"msg":"SUBS command succeeded"}}]}
+WebSocket                                17baf98              13060                on_message
+Unknown: {"code":0,"command ":"SUBS","message":"SUBS command succeeded","request_id":1}
+WebSocket                                17baf98              13060                message: {"data":[{"service":"ACCT_ACTIVITY", "timestamp":1635526715416,"command":"SUBS","content":[{"seq":0,"key":"b787cd68798f0c59a7b15f5464cf8d5cf7e75b17bc00db4722dabb4f5dd01f53ba7341016de06afd6bc59b2fabae1ec2b","1":"","2":"SUBSCRIBED","3":""}]}]}
+WebSocket                                17baf98              16952                send, _signal->send: {"requests":[{"account":"238227219","command":"QOS","parameters":{"qoslevel":"0"},"requestid":"2","service":"ADMIN","source":"fullheart"}]}
+----unknown message type1:2, type2:20------
+WebSocket                                17baf98              13060                on_signal
+[
+    {
+        "1": "",
+        "2": "SUBSCRIBED",
+        "3": "",
+        "key": "b787cd68798f0c59a7b15f5464cf8d5cf7e75b17bc00db4722dabb4f5dd01f53ba7341016de06afd6bc59b2fabae1ec2b",
+        "seq": 0
+    }
+]
+WebSocket                                17baf98              13060                on_signal, _ws->send: {"requests":[{"account":"238227219","command":"QOS","parameters":{"qoslevel":"0"},"requestid":"2","service":"ADMIN","source":"fullheart"}]}
+----end unknown message--
+WebSocket                                17baf98              13060                on_message
+WebSocket                                17baf98              13060                message: {"response":[{"service":"ADMIN","requestid":"2","command":"QOS","timestamp":1635526715522,"content":{"code":0,"msg":"QoS command succeeded. Set qoslevel=0"}}]}
+Unknown: {"code":0,"command ":"QOS","message":"QoS command succeeded. Set qoslevel=0","request_id":2}
+12:58:35 Td Ameritrade clearing all positions, orders and account updating messages...
+12:58:35 Td Ameritrade getting account positions and orders...
+12:58:36 Postions
+12:58:36 Update Position Quanty JD from 0 to 96
+12:58:36 Update Position Quanty BILI from 0 to 120
+12:58:36 Update Position Quanty BABA from 0 to 35
+12:58:36 TD Update find a new order: 4656159159, BUY JD6(78.57)status: FILLED
+12:58:36 TD New Order filled 4656159159: BUY JD 6 of 6(78.57)12:58:36 total profit 5.34258
+12:58:36 TD Update find a new order: 4656160562, BUY BABA2(161.8)status: QUEUED
+12:58:36 TD Update find a new order: 4656159168, BUY JD3(77.84)status: QUEUED
+12:58:36 TD Update find a new order: 4656160552, BUY BABA35(165.77)status: FILLED
+12:58:36 TD New Order filled 4656160552: BUY BABA 35 of 35(165.77)12:58:36 total profit 1319.45
+{
+    "securitiesAccount": {
+        "accountId": "238227219",
+        "currentBalances": {
+            "accruedInterest": 0.05,
+            "availableFunds": 1594.86,
+            "availableFundsNonMarginableTrade": 1594.86,
+            "bondValue": 0.0,
+            "buyingPower": 1594.86,
+            "buyingPowerNonMarginableTrade": 1037.74,
+            "cashBalance": 0.0,
+            "cashReceipts": 0.0,
+            "dayTradingBuyingPower": 0.0,
+            "equity": 23856.91,
+            "equityPercentage": 100.0,
+            "liquidationValue": 23856.91,
+            "longMarginValue": 22262.05,
+            "longMarketValue": 22262.05,
+            "longOptionMarketValue": 0.0,
+            "maintenanceCall": 0.0,
+            "maintenanceRequirement": 22262.05,
+            "marginBalance": -6273.37,
+            "moneyMarketFund": 7868.23,
+            "pendingDeposits": 0.0,
+            "regTCall": 0.0,
+            "savings": 0.0,
+            "shortBalance": 0.0,
+            "shortMarginValue": 0.0,
+            "shortMarketValue": 0.0,
+            "shortOptionMarketValue": 0.0,
+            "sma": 22051.19
+        },
+        "initialBalances": {
+            "accountValue": 24325.03,
+            "accruedInterest": 0.05,
+            "availableFundsNonMarginableTrade": 7868.23,
+            "bondValue": 0.0,
+            "buyingPower": 7868.23,
+            "cashAvailableForTrading": 0.0,
+            "cashBalance": 0.0,
+            "cashReceipts": 0.0,
+            "dayTradingBuyingPower": 0.0,
+            "dayTradingBuyingPowerCall": 0.0,
+            "dayTradingEquityCall": 0.0,
+            "equity": 24325.03,
+            "equityPercentage": 100.0,
+            "isInCall": false,
+            "liquidationValue": 24325.03,
+            "longMarginValue": 16456.8,
+            "longOptionMarketValue": 0.0,
+            "longStockValue": 16456.8,
+            "maintenanceCall": 0.0,
+            "maintenanceRequirement": 16456.8,
+            "margin": 0.0,
+            "marginBalance": 0.0,
+            "marginEquity": 16456.8,
+            "moneyMarketFund": 7868.23,
+            "mutualFundValue": 0.0,
+            "pendingDeposits": 0.0,
+            "regTCall": 0.0,
+            "shortBalance": 0.0,
+            "shortMarginValue": 0.0,
+            "shortOptionMarketValue": 0.0,
+            "shortStockValue": 0.0,
+            "totalCash": 0.0
+        },
+        "isClosingOnlyRestricted": false,
+        "isDayTrader": false,
+        "orderStrategies": [
+            {
+                "accountId": 238227219,
+                "cancelable": false,
+                "closeTime": "2021-10-29T16:00:06+0000",
+                "complexOrderStrategyType": "NONE",
+                "destinationLinkName": "NSDQ",
+                "duration": "DAY",
+                "editable": false,
+                "enteredTime": "2021-10-29T16:00:01+0000",
+                "filledQuantity": 6.0,
+                "orderActivityCollection": [
+                    {
+                        "activityType": "EXECUTION",
+                        "executionLegs": [
+                            {
+                                "legId": 1,
+                                "mismarkedQuantity": 0.0,
+                                "price": 78.57,
+                                "quantity": 6.0,
+                                "time": "2021-10-29T16:00:06+0000"
+                            }
+                        ],
+                        "executionType": "FILL",
+                        "orderRemainingQuantity": 0.0,
+                        "quantity": 6.0
+                    }
+                ],
+                "orderId": 4656159159,
+                "orderLegCollection": [
+                    {
+                        "instruction": "BUY",
+                        "instrument": {
+                            "assetType": "EQUITY",
+                            "cusip": "47215P106",
+                            "symbol": "JD"
+                        },
+                        "legId": 1,
+                        "orderLegType": "EQUITY",
+                        "positionEffect": "OPENING",
+                        "quantity": 6.0
+                    }
+                ],
+                "orderStrategyType": "SINGLE",
+                "orderType": "LIMIT",
+                "price": 78.57,
+                "quantity": 6.0,
+                "remainingQuantity": 0.0,
+                "requestedDestination": "AUTO",
+                "session": "SEAMLESS",
+                "status": "FILLED",
+                "tag": "AA_fullheart"
+            },
+            {
+                "accountId": 238227219,
+                "cancelable": false,
+                "closeTime": "2021-10-29T16:00:01+0000",
+                "complexOrderStrategyType": "NONE",
+                "destinationLinkName": "CDRG",
+                "duration": "DAY",
+                "editable": false,
+                "enteredTime": "2021-10-29T13:28:00+0000",
+                "filledQuantity": 0.0,
+                "orderId": 4652025403,
+                "orderLegCollection": [
+                    {
+                        "instruction": "SELL",
+                        "instrument": {
+                            "assetType": "EQUITY",
+                            "cusip": "47215P106",
+                            "symbol": "JD"
+                        },
+                        "legId": 1,
+                        "orderLegType": "EQUITY",
+                        "positionEffect": "CLOSING",
+                        "quantity": 3.0
+                    }
+                ],
+                "orderStrategyType": "SINGLE",
+                "orderType": "LIMIT",
+                "price": 81.2,
+                "quantity": 3.0,
+                "remainingQuantity": 0.0,
+                "requestedDestination": "AUTO",
+                "session": "SEAMLESS",
+                "status": "CANCELED",
+                "tag": "AA_fullheart"
+            },
+            {
+                "accountId": 238227219,
+                "cancelable": false,
+                "closeTime": "2021-10-29T16:30:26+0000",
+                "complexOrderStrategyType": "NONE",
+                "destinationLinkName": "CDRG",
+                "duration": "DAY",
+                "editable": false,
+                "enteredTime": "2021-10-29T16:30:23+0000",
+                "filledQuantity": 0.0,
+                "orderId": 4656160549,
+                "orderLegCollection": [
+                    {
+                        "instruction": "BUY",
+                        "instrument": {
+                            "assetType": "EQUITY",
+                            "cusip": "01609W102",
+                            "symbol": "BABA"
+                        },
+                        "legId": 1,
+                        "orderLegType": "EQUITY",
+                        "positionEffect": "OPENING",
+                        "quantity": 35.0
+                    }
+                ],
+                "orderStrategyType": "SINGLE",
+                "orderType": "LIMIT",
+                "price": 165.76,
+                "quantity": 35.0,
+                "remainingQuantity": 0.0,
+                "requestedDestination": "AUTO",
+                "session": "SEAMLESS",
+                "status": "CANCELED",
+                "tag": "AA_fullheart"
+            },
+            {
+                "accountId": 238227219,
+                "cancelable": true,
+                "complexOrderStrategyType": "NONE",
+                "destinationLinkName": "CDRG",
+                "duration": "DAY",
+                "editable": true,
+                "enteredTime": "2021-10-29T16:30:38+0000",
+                "filledQuantity": 0.0,
+                "orderId": 4656160562,
+                "orderLegCollection": [
+                    {
+                        "instruction": "BUY",
+                        "instrument": {
+                            "assetType": "EQUITY",
+                            "cusip": "01609W102",
+                            "symbol": "BABA"
+                        },
+                        "legId": 1,
+                        "orderLegType": "EQUITY",
+                        "positionEffect": "OPENING",
+                        "quantity": 2.0
+                    }
+                ],
+                "orderStrategyType": "SINGLE",
+                "orderType": "LIMIT",
+                "price": 161.8,
+                "quantity": 2.0,
+                "remainingQuantity": 2.0,
+                "requestedDestination": "AUTO",
+                "session": "SEAMLESS",
+                "status": "QUEUED",
+                "tag": "AA_fullheart"
+            },
+            {
+                "accountId": 238227219,
+                "cancelable": false,
+                "closeTime": "2021-10-29T16:00:01+0000",
+                "complexOrderStrategyType": "NONE",
+                "destinationLinkName": "CDRG",
+                "duration": "DAY",
+                "editable": false,
+                "enteredTime": "2021-10-29T10:59:40+0000",
+                "filledQuantity": 0.0,
+                "orderId": 4651153887,
+                "orderLegCollection": [
+                    {
+                        "instruction": "SELL",
+                        "instrument": {
+                            "assetType": "EQUITY",
+                            "cusip": "090040106",
+                            "symbol": "BILI"
+                        },
+                        "legId": 1,
+                        "orderLegType": "EQUITY",
+                        "positionEffect": "CLOSING",
+                        "quantity": 3.0
+                    }
+                ],
+                "orderStrategyType": "SINGLE",
+                "orderType": "LIMIT",
+                "price": 81.6,
+                "quantity": 3.0,
+                "remainingQuantity": 0.0,
+                "requestedDestination": "AUTO",
+                "session": "SEAMLESS",
+                "status": "CANCELED",
+                "tag": "AA_fullheart"
+            },
+            {
+                "accountId": 238227219,
+                "cancelable": false,
+                "closeTime": "2021-10-29T13:28:00+0000",
+                "complexOrderStrategyType": "NONE",
+                "destinationLinkName": "NITE",
+                "duration": "DAY",
+                "editable": false,
+                "enteredTime": "2021-10-29T10:59:40+0000",
+                "filledQuantity": 0.0,
+                "orderId": 4651153886,
+                "orderLegCollection": [
+                    {
+                        "instruction": "SELL",
+                        "instrument": {
+                            "assetType": "EQUITY",
+                            "cusip": "47215P106",
+                            "symbol": "JD"
+                        },
+                        "legId": 1,
+                        "orderLegType": "EQUITY",
+                        "positionEffect": "CLOSING",
+                        "quantity": 4.0
+                    }
+                ],
+                "orderStrategyType": "SINGLE",
+                "orderType": "LIMIT",
+                "price": 81.48,
+                "quantity": 4.0,
+                "remainingQuantity": 0.0,
+                "requestedDestination": "AUTO",
+                "session": "SEAMLESS",
+                "status": "CANCELED",
+                "tag": "AA_fullheart"
+            },
+            {
+                "accountId": 238227219,
+                "cancelable": true,
+                "complexOrderStrategyType": "NONE",
+                "destinationLinkName": "CDRG",
+                "duration": "DAY",
+                "editable": true,
+                "enteredTime": "2021-10-29T16:00:07+0000",
+                "filledQuantity": 0.0,
+                "orderId": 4656159168,
+                "orderLegCollection": [
+                    {
+                        "instruction": "BUY",
+                        "instrument": {
+                            "assetType": "EQUITY",
+                            "cusip": "47215P106",
+                            "symbol": "JD"
+                        },
+                        "legId": 1,
+                        "orderLegType": "EQUITY",
+                        "positionEffect": "OPENING",
+                        "quantity": 3.0
+                    }
+                ],
+                "orderStrategyType": "SINGLE",
+                "orderType": "LIMIT",
+                "price": 77.84,
+                "quantity": 3.0,
+                "remainingQuantity": 3.0,
+                "requestedDestination": "AUTO",
+                "session": "SEAMLESS",
+                "status": "QUEUED",
+                "tag": "AA_fullheart"
+            },
+            {
+                "accountId": 238227219,
+                "cancelable": false,
+                "closeTime": "2021-10-29T16:30:23+0000",
+                "complexOrderStrategyType": "NONE",
+                "destinationLinkName": "ARCX",
+                "duration": "DAY",
+                "editable": false,
+                "enteredTime": "2021-10-29T16:30:20+0000",
+                "filledQuantity": 0.0,
+                "orderId": 4656160539,
+                "orderLegCollection": [
+                    {
+                        "instruction": "BUY",
+                        "instrument": {
+                            "assetType": "EQUITY",
+                            "cusip": "01609W102",
+                            "symbol": "BABA"
+                        },
+                        "legId": 1,
+                        "orderLegType": "EQUITY",
+                        "positionEffect": "OPENING",
+                        "quantity": 35.0
+                    }
+                ],
+                "orderStrategyType": "SINGLE",
+                "orderType": "LIMIT",
+                "price": 165.75,
+                "quantity": 35.0,
+                "remainingQuantity": 0.0,
+                "requestedDestination": "AUTO",
+                "session": "SEAMLESS",
+                "status": "CANCELED",
+                "tag": "AA_fullheart"
+            },
+            {
+                "accountId": 238227219,
+                "cancelable": false,
+                "closeTime": "2021-10-29T16:30:26+0000",
+                "complexOrderStrategyType": "NONE",
+                "destinationLinkName": "CDRG",
+                "duration": "DAY",
+                "editable": false,
+                "enteredTime": "2021-10-29T16:30:26+0000",
+                "filledQuantity": 35.0,
+                "orderActivityCollection": [
+                    {
+                        "activityType": "EXECUTION",
+                        "executionLegs": [
+                            {
+                                "legId": 1,
+                                "mismarkedQuantity": 0.0,
+                                "price": 165.77,
+                                "quantity": 15.0,
+                                "time": "2021-10-29T16:30:26+0000"
+                            }
+                        ],
+                        "executionType": "FILL",
+                        "orderRemainingQuantity": 20.0,
+                        "quantity": 15.0
+                    },
+                    {
+                        "activityType": "EXECUTION",
+                        "executionLegs": [
+                            {
+                                "legId": 1,
+                                "mismarkedQuantity": 0.0,
+                                "price": 165.77,
+                                "quantity": 20.0,
+                                "time": "2021-10-29T16:30:26+0000"
+                            }
+                        ],
+                        "executionType": "FILL",
+                        "orderRemainingQuantity": 0.0,
+                        "quantity": 20.0
+                    }
+                ],
+                "orderId": 4656160552,
+                "orderLegCollection": [
+                    {
+                        "instruction": "BUY",
+                        "instrument": {
+                            "assetType": "EQUITY",
+                            "cusip": "01609W102",
+                            "symbol": "BABA"
+                        },
+                        "legId": 1,
+                        "orderLegType": "EQUITY",
+                        "positionEffect": "OPENING",
+                        "quantity": 35.0
+                    }
+                ],
+                "orderStrategyType": "SINGLE",
+                "orderType": "LIMIT",
+                "price": 165.77,
+                "quantity": 35.0,
+                "remainingQuantity": 0.0,
+                "requestedDestination": "AUTO",
+                "session": "SEAMLESS",
+                "status": "FILLED",
+                "tag": "AA_fullheart"
+            },
+            {
+                "accountId": 238227219,
+                "cancelable": false,
+                "closeTime": "2021-10-29T16:30:20+0000",
+                "complexOrderStrategyType": "NONE",
+                "destinationLinkName": "CDRG",
+                "duration": "DAY",
+                "editable": false,
+                "enteredTime": "2021-10-29T16:30:18+0000",
+                "filledQuantity": 0.0,
+                "orderId": 4656160537,
+                "orderLegCollection": [
+                    {
+                        "instruction": "BUY",
+                        "instrument": {
+                            "assetType": "EQUITY",
+                            "cusip": "01609W102",
+                            "symbol": "BABA"
+                        },
+                        "legId": 1,
+                        "orderLegType": "EQUITY",
+                        "positionEffect": "OPENING",
+                        "quantity": 35.0
+                    }
+                ],
+                "orderStrategyType": "SINGLE",
+                "orderType": "LIMIT",
+                "price": 165.76,
+                "quantity": 35.0,
+                "remainingQuantity": 0.0,
+                "requestedDestination": "AUTO",
+                "session": "SEAMLESS",
+                "status": "CANCELED",
+                "tag": "AA_fullheart"
+            }
+        ],
+        "positions": [
+            {
+                "averagePrice": 76.83301875,
+                "currentDayProfitLoss": 191.23,
+                "currentDayProfitLossPercentage": 0.03,
+                "instrument": {
+                    "assetType": "EQUITY",
+                    "cusip": "47215P106",
+                    "symbol": "JD"
+                },
+                "longQuantity": 96.0,
+                "marketValue": 7567.2,
+                "settledLongQuantity": 90.0,
+                "settledShortQuantity": 0.0,
+                "shortQuantity": 0.0
+            },
+            {
+                "averagePrice": 83.679,
+                "currentDayProfitLoss": -1150.68,
+                "currentDayProfitLossPercentage": -0.11,
+                "instrument": {
+                    "assetType": "EQUITY",
+                    "cusip": "090040106",
+                    "symbol": "BILI"
+                },
+                "longQuantity": 120.0,
+                "marketValue": 8890.8,
+                "settledLongQuantity": 120.0,
+                "settledShortQuantity": 0.0,
+                "shortQuantity": 0.0
+            },
+            {
+                "averagePrice": 1.0,
+                "currentDayProfitLoss": 0.0,
+                "currentDayProfitLossPercentage": 0.0,
+                "instrument": {
+                    "assetType": "CASH_EQUIVALENT",
+                    "cusip": "9ZZZFD104",
+                    "description": "FDIC INSURED DEPOSIT ACCOUNT  CORE  NOT COVERED BY SIPC",
+                    "symbol": "MMDA1",
+                    "type": "MONEY_MARKET_FUND"
+                },
+                "longQuantity": 7868.18,
+                "marketValue": 7868.18,
+                "settledLongQuantity": 7868.18,
+                "settledShortQuantity": 0.0,
+                "shortQuantity": 0.0
+            },
+            {
+                "averagePrice": 165.77,
+                "currentDayProfitLoss": 2.1,
+                "currentDayProfitLossPercentage": 0.0,
+                "instrument": {
+                    "assetType": "EQUITY",
+                    "cusip": "01609W102",
+                    "symbol": "BABA"
+                },
+                "longQuantity": 35.0,
+                "marketValue": 5804.05,
+                "settledLongQuantity": 0.0,
+                "settledShortQuantity": 0.0,
+                "shortQuantity": 0.0
+            }
+        ],
+        "projectedBalances": {
+            "availableFunds": 1037.74,
+            "availableFundsNonMarginableTrade": 1037.74,
+            "buyingPower": 1037.74,
+            "dayTradingBuyingPower": 0.0,
+            "dayTradingBuyingPowerCall": 0.0,
+            "isInCall": false,
+            "maintenanceCall": 0.0,
+            "regTCall": 0.0,
+            "stockBuyingPower": 1037.74
+        },
+        "roundTrips": 0,
+        "type": "MARGIN"
+    }
+}

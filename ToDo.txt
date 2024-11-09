@@ -1,0 +1,5 @@
+All positions need to be tracked, and can be tracked.
+All orders need to be tracked, and can be tracked.
+
+Remember, because we do not track the replaced order, so when http get all orders information, 
+the profit calculation may be not correct, since some may be partially filled order and then being replace by another order.
