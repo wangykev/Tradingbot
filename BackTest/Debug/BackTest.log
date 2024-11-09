@@ -1,0 +1,4 @@
+﻿  BackTest.cpp
+C:\TradingRobot\BackTest\BackTest.cpp(72,23): warning C4018: '<': signed/unsigned mismatch
+C:\TradingRobot\BackTest\BackTest.cpp(276,23): warning C4018: '<': signed/unsigned mismatch
+  BackTest.vcxproj -> C:\TradingRobot\Debug\BackTest.exe

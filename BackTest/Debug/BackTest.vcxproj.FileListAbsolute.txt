@@ -1,0 +1,1 @@
+C:\TradingRobot\BackTest\Debug\BackTest.vcxproj.CopyComplete
